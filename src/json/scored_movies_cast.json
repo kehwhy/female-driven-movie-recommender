@@ -1,0 +1,4298 @@
+[
+ {
+   "FIELD1": 0,
+   "movieId": 1,
+   "title": "Toy Story",
+   "ratio_female": "0.25"
+ },
+ {
+   "FIELD1": 1,
+   "movieId": 2,
+   "title": "Jumanji",
+   "ratio_female": "0.4"
+ },
+ {
+   "FIELD1": 2,
+   "movieId": 3,
+   "title": "Grumpier Old Men",
+   "ratio_female": "0.42857142857142855"
+ },
+ {
+   "FIELD1": 3,
+   "movieId": 4,
+   "title": "Waiting to Exhale",
+   "ratio_female": "0.4"
+ },
+ {
+   "FIELD1": 4,
+   "movieId": 5,
+   "title": "Father of the Bride",
+   "ratio_female": "0.2727272727272727"
+ },
+ {
+   "FIELD1": 5,
+   "movieId": 5,
+   "title": "Father of the Bride Part II",
+   "ratio_female": "0.45454545454545453"
+ },
+ {
+   "FIELD1": 6,
+   "movieId": 6,
+   "title": "Heat",
+   "ratio_female": "0.3333333333333333"
+ },
+ {
+   "FIELD1": 7,
+   "movieId": 7,
+   "title": "Sabrina",
+   "ratio_female": "0.4857142857142857"
+ },
+ {
+   "FIELD1": 8,
+   "movieId": 8,
+   "title": "Tom and Huck",
+   "ratio_female": "0.42857142857142855"
+ },
+ {
+   "FIELD1": 9,
+   "movieId": 9,
+   "title": "Sudden Death",
+   "ratio_female": "0.16666666666666666"
+ },
+ {
+   "FIELD1": 10,
+   "movieId": 10,
+   "title": "GoldenEye",
+   "ratio_female": "0.3684210526315789"
+ },
+ {
+   "FIELD1": 11,
+   "movieId": 12,
+   "title": "Dracula: Dead and Loving It",
+   "ratio_female": "0.36363636363636365"
+ },
+ {
+   "FIELD1": 12,
+   "movieId": 13,
+   "title": "Balto",
+   "ratio_female": "0.2727272727272727"
+ },
+ {
+   "FIELD1": 13,
+   "movieId": 14,
+   "title": "Nixon",
+   "ratio_female": "0.16129032258064516"
+ },
+ {
+   "FIELD1": 14,
+   "movieId": 15,
+   "title": "Cutthroat Island",
+   "ratio_female": "0.09090909090909091"
+ },
+ {
+   "FIELD1": 15,
+   "movieId": 16,
+   "title": "Casino",
+   "ratio_female": "0.10344827586206896"
+ },
+ {
+   "FIELD1": 16,
+   "movieId": 17,
+   "title": "Sense and Sensibility",
+   "ratio_female": "0.4375"
+ },
+ {
+   "FIELD1": 17,
+   "movieId": 18,
+   "title": "Four Rooms",
+   "ratio_female": "0.6363636363636364"
+ },
+ {
+   "FIELD1": 18,
+   "movieId": 19,
+   "title": "Ace Ventura: When Nature Calls",
+   "ratio_female": "0.09090909090909091"
+ },
+ {
+   "FIELD1": 19,
+   "movieId": 20,
+   "title": "Money Train",
+   "ratio_female": "0.14285714285714285"
+ },
+ {
+   "FIELD1": 20,
+   "movieId": 21,
+   "title": "Get Shorty",
+   "ratio_female": "0.14285714285714285"
+ },
+ {
+   "FIELD1": 21,
+   "movieId": 22,
+   "title": "Copycat",
+   "ratio_female": "0.3"
+ },
+ {
+   "FIELD1": 22,
+   "movieId": 23,
+   "title": "Assassins",
+   "ratio_female": "0.2"
+ },
+ {
+   "FIELD1": 23,
+   "movieId": 24,
+   "title": "Powder",
+   "ratio_female": "0.2"
+ },
+ {
+   "FIELD1": 24,
+   "movieId": 25,
+   "title": "Leaving Las Vegas",
+   "ratio_female": "0.5"
+ },
+ {
+   "FIELD1": 25,
+   "movieId": 26,
+   "title": "Othello",
+   "ratio_female": "0.25"
+ },
+ {
+   "FIELD1": 26,
+   "movieId": 27,
+   "title": "Now and Then",
+   "ratio_female": "0.7142857142857143"
+ },
+ {
+   "FIELD1": 27,
+   "movieId": 28,
+   "title": "Persuasion",
+   "ratio_female": "0.4444444444444444"
+ },
+ {
+   "FIELD1": 28,
+   "movieId": 30,
+   "title": "Shanghai Triad",
+   "ratio_female": "1.0"
+ },
+ {
+   "FIELD1": 29,
+   "movieId": 31,
+   "title": "Dangerous Minds",
+   "ratio_female": "0.4444444444444444"
+ },
+ {
+   "FIELD1": 30,
+   "movieId": 32,
+   "title": "Twelve Monkeys",
+   "ratio_female": "0.23636363636363636"
+ },
+ {
+   "FIELD1": 31,
+   "movieId": 34,
+   "title": "Babe",
+   "ratio_female": "0.5"
+ },
+ {
+   "FIELD1": 32,
+   "movieId": 36,
+   "title": "Dead Man",
+   "ratio_female": "0.125"
+ },
+ {
+   "FIELD1": 33,
+   "movieId": 36,
+   "title": "Dead Man Walking",
+   "ratio_female": "0.3225806451612903"
+ },
+ {
+   "FIELD1": 34,
+   "movieId": 38,
+   "title": "It Takes Two",
+   "ratio_female": "0.6666666666666666"
+ },
+ {
+   "FIELD1": 35,
+   "movieId": 39,
+   "title": "Clueless",
+   "ratio_female": "0.5"
+ },
+ {
+   "FIELD1": 36,
+   "movieId": 40,
+   "title": "Cry, the Beloved Country",
+   "ratio_female": "0.3333333333333333"
+ },
+ {
+   "FIELD1": 37,
+   "movieId": 41,
+   "title": "Richard III",
+   "ratio_female": "0.17647058823529413"
+ },
+ {
+   "FIELD1": 38,
+   "movieId": 42,
+   "title": "Dead Presidents",
+   "ratio_female": "0.23076923076923078"
+ },
+ {
+   "FIELD1": 39,
+   "movieId": 43,
+   "title": "Restoration",
+   "ratio_female": "0.3"
+ },
+ {
+   "FIELD1": 40,
+   "movieId": 44,
+   "title": "Mortal Kombat",
+   "ratio_female": "0.14285714285714285"
+ },
+ {
+   "FIELD1": 41,
+   "movieId": 45,
+   "title": "To Die For",
+   "ratio_female": "0.4166666666666667"
+ },
+ {
+   "FIELD1": 42,
+   "movieId": 47,
+   "title": "Se7en",
+   "ratio_female": "0.15789473684210525"
+ },
+ {
+   "FIELD1": 43,
+   "movieId": 48,
+   "title": "Pocahontas",
+   "ratio_female": "0.21428571428571427"
+ },
+ {
+   "FIELD1": 44,
+   "movieId": 49,
+   "title": "When Night Is Falling",
+   "ratio_female": "0.3333333333333333"
+ },
+ {
+   "FIELD1": 45,
+   "movieId": 52,
+   "title": "Mighty Aphrodite",
+   "ratio_female": "0.36363636363636365"
+ },
+ {
+   "FIELD1": 46,
+   "movieId": 53,
+   "title": "Lamerica",
+   "ratio_female": "0.0"
+ },
+ {
+   "FIELD1": 47,
+   "movieId": 55,
+   "title": "Georgia",
+   "ratio_female": "0.25"
+ },
+ {
+   "FIELD1": 48,
+   "movieId": 57,
+   "title": "Home for the Holidays",
+   "ratio_female": "0.5"
+ },
+ {
+   "FIELD1": 49,
+   "movieId": 61,
+   "title": "Eye for an Eye",
+   "ratio_female": "0.5294117647058824"
+ },
+ {
+   "FIELD1": 50,
+   "movieId": 62,
+   "title": "Mr. Holland's Opus",
+   "ratio_female": "0.4666666666666667"
+ },
+ {
+   "FIELD1": 51,
+   "movieId": 63,
+   "title": "Don't Be a Menace to South Central While Drinking Your Juice in the Hood",
+   "ratio_female": "0.4166666666666667"
+ },
+ {
+   "FIELD1": 52,
+   "movieId": 65,
+   "title": "Bio-Dome",
+   "ratio_female": "0.5"
+ },
+ {
+   "FIELD1": 53,
+   "movieId": 66,
+   "title": "Lawnmower Man 2: Beyond Cyberspace",
+   "ratio_female": "0.3333333333333333"
+ },
+ {
+   "FIELD1": 54,
+   "movieId": 68,
+   "title": "French Twist",
+   "ratio_female": "0.5"
+ },
+ {
+   "FIELD1": 55,
+   "movieId": 69,
+   "title": "Friday",
+   "ratio_female": "0.35294117647058826"
+ },
+ {
+   "FIELD1": 56,
+   "movieId": 70,
+   "title": "From Dusk Till Dawn",
+   "ratio_female": "0.2631578947368421"
+ },
+ {
+   "FIELD1": 57,
+   "movieId": 71,
+   "title": "Fair Game",
+   "ratio_female": "0.23529411764705882"
+ },
+ {
+   "FIELD1": 58,
+   "movieId": 72,
+   "title": "Kicking and Screaming",
+   "ratio_female": "0.35294117647058826"
+ },
+ {
+   "FIELD1": 59,
+   "movieId": 74,
+   "title": "Bed of Roses",
+   "ratio_female": "0.47368421052631576"
+ },
+ {
+   "FIELD1": 60,
+   "movieId": 75,
+   "title": "Big Bully",
+   "ratio_female": "0.2857142857142857"
+ },
+ {
+   "FIELD1": 61,
+   "movieId": 76,
+   "title": "Screamers",
+   "ratio_female": "0.2857142857142857"
+ },
+ {
+   "FIELD1": 62,
+   "movieId": 77,
+   "title": "Nico Icon",
+   "ratio_female": "0.5"
+ },
+ {
+   "FIELD1": 63,
+   "movieId": 81,
+   "title": "Things to Do in Denver When You're Dead",
+   "ratio_female": "0.2857142857142857"
+ },
+ {
+   "FIELD1": 64,
+   "movieId": 82,
+   "title": "Antonia's Line",
+   "ratio_female": "0.75"
+ },
+ {
+   "FIELD1": 65,
+   "movieId": 83,
+   "title": "Once Upon a Time... When We Were Colored",
+   "ratio_female": "0.5"
+ },
+ {
+   "FIELD1": 66,
+   "movieId": 85,
+   "title": "Angels and Insects",
+   "ratio_female": "0.5714285714285714"
+ },
+ {
+   "FIELD1": 67,
+   "movieId": 86,
+   "title": "White Squall",
+   "ratio_female": "0.06666666666666667"
+ },
+ {
+   "FIELD1": 68,
+   "movieId": 87,
+   "title": "Dunston Checks In",
+   "ratio_female": "0.3333333333333333"
+ },
+ {
+   "FIELD1": 69,
+   "movieId": 88,
+   "title": "Black Sheep",
+   "ratio_female": "0.07692307692307693"
+ },
+ {
+   "FIELD1": 70,
+   "movieId": 89,
+   "title": "Nick of Time",
+   "ratio_female": "0.3333333333333333"
+ },
+ {
+   "FIELD1": 71,
+   "movieId": 92,
+   "title": "Mary Reilly",
+   "ratio_female": "0.3333333333333333"
+ },
+ {
+   "FIELD1": 72,
+   "movieId": 93,
+   "title": "Vampire in Brooklyn",
+   "ratio_female": "0.25"
+ },
+ {
+   "FIELD1": 73,
+   "movieId": 94,
+   "title": "Beautiful Girls",
+   "ratio_female": "0.4444444444444444"
+ },
+ {
+   "FIELD1": 74,
+   "movieId": 95,
+   "title": "Broken Arrow",
+   "ratio_female": "0.07142857142857142"
+ },
+ {
+   "FIELD1": 75,
+   "movieId": 99,
+   "title": "Heidi Fleiss: Hollywood Madam",
+   "ratio_female": "0.3333333333333333"
+ },
+ {
+   "FIELD1": 76,
+   "movieId": 100,
+   "title": "City Hall",
+   "ratio_female": "0.14285714285714285"
+ },
+ {
+   "FIELD1": 77,
+   "movieId": 101,
+   "title": "Bottle Rocket",
+   "ratio_female": "0.16666666666666666"
+ },
+ {
+   "FIELD1": 78,
+   "movieId": 102,
+   "title": "Mr. Wrong",
+   "ratio_female": "0.625"
+ },
+ {
+   "FIELD1": 79,
+   "movieId": 103,
+   "title": "Unforgettable",
+   "ratio_female": "0.375"
+ },
+ {
+   "FIELD1": 80,
+   "movieId": 104,
+   "title": "Happy Gilmore",
+   "ratio_female": "0.09090909090909091"
+ },
+ {
+   "FIELD1": 81,
+   "movieId": 106,
+   "title": "Nobody Loves Me",
+   "ratio_female": "0.5"
+ },
+ {
+   "FIELD1": 82,
+   "movieId": 107,
+   "title": "Muppet Treasure Island",
+   "ratio_female": "0.14285714285714285"
+ },
+ {
+   "FIELD1": 83,
+   "movieId": 108,
+   "title": "Catwalk",
+   "ratio_female": "0.47368421052631576"
+ },
+ {
+   "FIELD1": 84,
+   "movieId": 110,
+   "title": "Braveheart",
+   "ratio_female": "0.03333333333333333"
+ },
+ {
+   "FIELD1": 85,
+   "movieId": 111,
+   "title": "Taxi Driver",
+   "ratio_female": "0.2727272727272727"
+ },
+ {
+   "FIELD1": 86,
+   "movieId": 112,
+   "title": "Rumble in the Bronx",
+   "ratio_female": "0.25"
+ },
+ {
+   "FIELD1": 87,
+   "movieId": 113,
+   "title": "Before and After",
+   "ratio_female": "0.3076923076923077"
+ },
+ {
+   "FIELD1": 88,
+   "movieId": 116,
+   "title": "Anne Frank Remembered",
+   "ratio_female": "0.5"
+ },
+ {
+   "FIELD1": 89,
+   "movieId": 118,
+   "title": "If Lucy Fell",
+   "ratio_female": "0.5"
+ },
+ {
+   "FIELD1": 90,
+   "movieId": 121,
+   "title": "Boys",
+   "ratio_female": "0.3333333333333333"
+ },
+ {
+   "FIELD1": 91,
+   "movieId": 122,
+   "title": "Boomerang",
+   "ratio_female": "0.5"
+ },
+ {
+   "FIELD1": 92,
+   "movieId": 123,
+   "title": "Chungking Express",
+   "ratio_female": "0.6"
+ },
+ {
+   "FIELD1": 93,
+   "movieId": 125,
+   "title": "Flirt",
+   "ratio_female": "0.30434782608695654"
+ },
+ {
+   "FIELD1": 94,
+   "movieId": 128,
+   "title": "Wife",
+   "ratio_female": "1.0"
+ },
+ {
+   "FIELD1": 95,
+   "movieId": 129,
+   "title": "Pie in the Sky",
+   "ratio_female": "0.375"
+ },
+ {
+   "FIELD1": 96,
+   "movieId": 132,
+   "title": "Jade",
+   "ratio_female": "0.21052631578947367"
+ },
+ {
+   "FIELD1": 97,
+   "movieId": 135,
+   "title": "Down Periscope",
+   "ratio_female": "0.1282051282051282"
+ },
+ {
+   "FIELD1": 98,
+   "movieId": 137,
+   "title": "Man of the Year",
+   "ratio_female": "0.5"
+ },
+ {
+   "FIELD1": 99,
+   "movieId": 145,
+   "title": "Bad Boys",
+   "ratio_female": "0.3333333333333333"
+ },
+ {
+   "FIELD1": 100,
+   "movieId": 149,
+   "title": "Amateur",
+   "ratio_female": "0.5"
+ },
+ {
+   "FIELD1": 101,
+   "movieId": 150,
+   "title": "Apollo 13",
+   "ratio_female": "0.24"
+ },
+ {
+   "FIELD1": 102,
+   "movieId": 151,
+   "title": "Rob Roy",
+   "ratio_female": "0.3333333333333333"
+ },
+ {
+   "FIELD1": 103,
+   "movieId": 153,
+   "title": "Batman",
+   "ratio_female": "0.125"
+ },
+ {
+   "FIELD1": 104,
+   "movieId": 153,
+   "title": "Batman Forever",
+   "ratio_female": "0.26666666666666666"
+ },
+ {
+   "FIELD1": 105,
+   "movieId": 155,
+   "title": "Beyond Rangoon",
+   "ratio_female": "0.5"
+ },
+ {
+   "FIELD1": 106,
+   "movieId": 155,
+   "title": "Ran",
+   "ratio_female": "0.14285714285714285"
+ },
+ {
+   "FIELD1": 107,
+   "movieId": 156,
+   "title": "Blue in the Face",
+   "ratio_female": "0.3157894736842105"
+ },
+ {
+   "FIELD1": 108,
+   "movieId": 157,
+   "title": "Canadian Bacon",
+   "ratio_female": "0.06666666666666667"
+ },
+ {
+   "FIELD1": 109,
+   "movieId": 158,
+   "title": "Casper",
+   "ratio_female": "0.20833333333333334"
+ },
+ {
+   "FIELD1": 110,
+   "movieId": 159,
+   "title": "Clockers",
+   "ratio_female": "0.06896551724137931"
+ },
+ {
+   "FIELD1": 111,
+   "movieId": 160,
+   "title": "Congo",
+   "ratio_female": "0.2222222222222222"
+ },
+ {
+   "FIELD1": 112,
+   "movieId": 161,
+   "title": "Crimson Tide",
+   "ratio_female": "0.0"
+ },
+ {
+   "FIELD1": 113,
+   "movieId": 162,
+   "title": "Crumb",
+   "ratio_female": "0.3333333333333333"
+ },
+ {
+   "FIELD1": 114,
+   "movieId": 163,
+   "title": "Desperado",
+   "ratio_female": "0.16666666666666666"
+ },
+ {
+   "FIELD1": 115,
+   "movieId": 164,
+   "title": "Devil in a Blue Dress",
+   "ratio_female": "0.18181818181818182"
+ },
+ {
+   "FIELD1": 116,
+   "movieId": 165,
+   "title": "Die Hard",
+   "ratio_female": "0.23076923076923078"
+ },
+ {
+   "FIELD1": 117,
+   "movieId": 165,
+   "title": "Die Hard: With a Vengeance",
+   "ratio_female": "0.25"
+ },
+ {
+   "FIELD1": 118,
+   "movieId": 168,
+   "title": "First Knight",
+   "ratio_female": "0.18181818181818182"
+ },
+ {
+   "FIELD1": 119,
+   "movieId": 169,
+   "title": "Free Willy",
+   "ratio_female": "0.3"
+ },
+ {
+   "FIELD1": 120,
+   "movieId": 170,
+   "title": "Hackers",
+   "ratio_female": "0.15789473684210525"
+ },
+ {
+   "FIELD1": 121,
+   "movieId": 171,
+   "title": "Jeffrey",
+   "ratio_female": "0.5"
+ },
+ {
+   "FIELD1": 122,
+   "movieId": 172,
+   "title": "Johnny Mnemonic",
+   "ratio_female": "0.2"
+ },
+ {
+   "FIELD1": 123,
+   "movieId": 173,
+   "title": "Judge Dredd",
+   "ratio_female": "0.17647058823529413"
+ },
+ {
+   "FIELD1": 124,
+   "movieId": 174,
+   "title": "Jury Duty",
+   "ratio_female": "0.3125"
+ },
+ {
+   "FIELD1": 125,
+   "movieId": 175,
+   "title": "Kids",
+   "ratio_female": "0.3333333333333333"
+ },
+ {
+   "FIELD1": 126,
+   "movieId": 176,
+   "title": "Living in Oblivion",
+   "ratio_female": "0.3333333333333333"
+ },
+ {
+   "FIELD1": 127,
+   "movieId": 177,
+   "title": "Lord of Illusions",
+   "ratio_female": "0.35294117647058826"
+ },
+ {
+   "FIELD1": 128,
+   "movieId": 178,
+   "title": "Love & Human Remains",
+   "ratio_female": "0.3"
+ },
+ {
+   "FIELD1": 129,
+   "movieId": 179,
+   "title": "Mad Love",
+   "ratio_female": "0.36363636363636365"
+ },
+ {
+   "FIELD1": 130,
+   "movieId": 180,
+   "title": "Mallrats",
+   "ratio_female": "0.2777777777777778"
+ },
+ {
+   "FIELD1": 131,
+   "movieId": 181,
+   "title": "Mighty Morphin Power Rangers: The Movie",
+   "ratio_female": "0.3"
+ },
+ {
+   "FIELD1": 132,
+   "movieId": 183,
+   "title": "Mute Witness",
+   "ratio_female": "0.0"
+ },
+ {
+   "FIELD1": 133,
+   "movieId": 184,
+   "title": "Nadja",
+   "ratio_female": "0.3333333333333333"
+ },
+ {
+   "FIELD1": 134,
+   "movieId": 186,
+   "title": "Nine Months",
+   "ratio_female": "0.6"
+ },
+ {
+   "FIELD1": 135,
+   "movieId": 187,
+   "title": "Party Girl",
+   "ratio_female": "0.2857142857142857"
+ },
+ {
+   "FIELD1": 136,
+   "movieId": 189,
+   "title": "Reckless",
+   "ratio_female": "0.3333333333333333"
+ },
+ {
+   "FIELD1": 137,
+   "movieId": 190,
+   "title": "Safe",
+   "ratio_female": "0.5454545454545454"
+ },
+ {
+   "FIELD1": 138,
+   "movieId": 193,
+   "title": "Showgirls",
+   "ratio_female": "0.5"
+ },
+ {
+   "FIELD1": 139,
+   "movieId": 194,
+   "title": "Smoke",
+   "ratio_female": "0.23076923076923078"
+ },
+ {
+   "FIELD1": 140,
+   "movieId": 195,
+   "title": "Something to Talk About",
+   "ratio_female": "0.6363636363636364"
+ },
+ {
+   "FIELD1": 141,
+   "movieId": 196,
+   "title": "Species",
+   "ratio_female": "0.37735849056603776"
+ },
+ {
+   "FIELD1": 142,
+   "movieId": 198,
+   "title": "Strange Days",
+   "ratio_female": "0.2857142857142857"
+ },
+ {
+   "FIELD1": 143,
+   "movieId": 201,
+   "title": "Three Wishes",
+   "ratio_female": "0.2777777777777778"
+ },
+ {
+   "FIELD1": 144,
+   "movieId": 202,
+   "title": "Total Eclipse",
+   "ratio_female": "0.2222222222222222"
+ },
+ {
+   "FIELD1": 145,
+   "movieId": 203,
+   "title": "To Wong Foo, Thanks for Everything! Julie Newmar",
+   "ratio_female": "0.4"
+ },
+ {
+   "FIELD1": 146,
+   "movieId": 204,
+   "title": "Under Siege 2: Dark Territory",
+   "ratio_female": "0.2727272727272727"
+ },
+ {
+   "FIELD1": 147,
+   "movieId": 205,
+   "title": "Unstrung Heroes",
+   "ratio_female": "0.25"
+ },
+ {
+   "FIELD1": 148,
+   "movieId": 206,
+   "title": "Unzipped",
+   "ratio_female": "0.6666666666666666"
+ },
+ {
+   "FIELD1": 149,
+   "movieId": 208,
+   "title": "Waterworld",
+   "ratio_female": "0.23076923076923078"
+ },
+ {
+   "FIELD1": 150,
+   "movieId": 209,
+   "title": "White Man's Burden",
+   "ratio_female": "0.4"
+ },
+ {
+   "FIELD1": 151,
+   "movieId": 210,
+   "title": "Wild Bill",
+   "ratio_female": "0.36363636363636365"
+ },
+ {
+   "FIELD1": 152,
+   "movieId": 212,
+   "title": "Bushwhacked",
+   "ratio_female": "0.125"
+ },
+ {
+   "FIELD1": 153,
+   "movieId": 213,
+   "title": "Burnt by the Sun",
+   "ratio_female": "0.4"
+ },
+ {
+   "FIELD1": 154,
+   "movieId": 214,
+   "title": "Before the Rain",
+   "ratio_female": "0.3"
+ },
+ {
+   "FIELD1": 155,
+   "movieId": 215,
+   "title": "Before Sunrise",
+   "ratio_female": "0.42857142857142855"
+ },
+ {
+   "FIELD1": 156,
+   "movieId": 216,
+   "title": "Billy Madison",
+   "ratio_female": "0.21428571428571427"
+ },
+ {
+   "FIELD1": 157,
+   "movieId": 218,
+   "title": "Boys on the Side",
+   "ratio_female": "0.5"
+ },
+ {
+   "FIELD1": 158,
+   "movieId": 220,
+   "title": "Castle Freak",
+   "ratio_female": "0.4"
+ },
+ {
+   "FIELD1": 159,
+   "movieId": 222,
+   "title": "Circle of Friends",
+   "ratio_female": "0.25"
+ },
+ {
+   "FIELD1": 160,
+   "movieId": 223,
+   "title": "Clerks",
+   "ratio_female": "0.0"
+ },
+ {
+   "FIELD1": 161,
+   "movieId": 224,
+   "title": "Don Juan DeMarco",
+   "ratio_female": "0.5833333333333334"
+ },
+ {
+   "FIELD1": 162,
+   "movieId": 225,
+   "title": "Disclosure",
+   "ratio_female": "0.5"
+ },
+ {
+   "FIELD1": 163,
+   "movieId": 227,
+   "title": "Drop Zone",
+   "ratio_female": "0.125"
+ },
+ {
+   "FIELD1": 164,
+   "movieId": 228,
+   "title": "Destiny Turns on the Radio",
+   "ratio_female": "0.2"
+ },
+ {
+   "FIELD1": 165,
+   "movieId": 229,
+   "title": "Death and the Maiden",
+   "ratio_female": "0.5"
+ },
+ {
+   "FIELD1": 166,
+   "movieId": 230,
+   "title": "Dolores Claiborne",
+   "ratio_female": "0.375"
+ },
+ {
+   "FIELD1": 167,
+   "movieId": 231,
+   "title": "Dumb and Dumber",
+   "ratio_female": "0.4"
+ },
+ {
+   "FIELD1": 168,
+   "movieId": 232,
+   "title": "Eat Drink Man Woman",
+   "ratio_female": "0.6666666666666666"
+ },
+ {
+   "FIELD1": 169,
+   "movieId": 233,
+   "title": "Exotica",
+   "ratio_female": "0.21428571428571427"
+ },
+ {
+   "FIELD1": 170,
+   "movieId": 234,
+   "title": "Ed",
+   "ratio_female": "0.125"
+ },
+ {
+   "FIELD1": 171,
+   "movieId": 234,
+   "title": "Exit to Eden",
+   "ratio_female": "0.5714285714285714"
+ },
+ {
+   "FIELD1": 172,
+   "movieId": 235,
+   "title": "Ed Wood",
+   "ratio_female": "0.20408163265306123"
+ },
+ {
+   "FIELD1": 173,
+   "movieId": 236,
+   "title": "French Kiss",
+   "ratio_female": "0.42857142857142855"
+ },
+ {
+   "FIELD1": 174,
+   "movieId": 237,
+   "title": "Forget Paris",
+   "ratio_female": "0.4"
+ },
+ {
+   "FIELD1": 175,
+   "movieId": 240,
+   "title": "Hideaway",
+   "ratio_female": "0.4"
+ },
+ {
+   "FIELD1": 176,
+   "movieId": 241,
+   "title": "Fluke",
+   "ratio_female": "0.23076923076923078"
+ },
+ {
+   "FIELD1": 177,
+   "movieId": 242,
+   "title": "Farinelli",
+   "ratio_female": "0.6666666666666666"
+ },
+ {
+   "FIELD1": 178,
+   "movieId": 243,
+   "title": "Gordy",
+   "ratio_female": "0.0"
+ },
+ {
+   "FIELD1": 179,
+   "movieId": 246,
+   "title": "Hoop Dreams",
+   "ratio_female": "0.0"
+ },
+ {
+   "FIELD1": 180,
+   "movieId": 247,
+   "title": "Heavenly Creatures",
+   "ratio_female": "0.6"
+ },
+ {
+   "FIELD1": 181,
+   "movieId": 248,
+   "title": "Houseguest",
+   "ratio_female": "0.25"
+ },
+ {
+   "FIELD1": 182,
+   "movieId": 249,
+   "title": "Immortal Beloved",
+   "ratio_female": "0.3333333333333333"
+ },
+ {
+   "FIELD1": 183,
+   "movieId": 250,
+   "title": "Heavy",
+   "ratio_female": "0.5"
+ },
+ {
+   "FIELD1": 184,
+   "movieId": 250,
+   "title": "Heavyweights",
+   "ratio_female": "0.08333333333333333"
+ },
+ {
+   "FIELD1": 185,
+   "movieId": 252,
+   "title": "I.Q.",
+   "ratio_female": "0.09090909090909091"
+ },
+ {
+   "FIELD1": 186,
+   "movieId": 253,
+   "title": "Interview with the Vampire",
+   "ratio_female": "0.46153846153846156"
+ },
+ {
+   "FIELD1": 187,
+   "movieId": 254,
+   "title": "Jefferson in Paris",
+   "ratio_female": "0.4166666666666667"
+ },
+ {
+   "FIELD1": 188,
+   "movieId": 256,
+   "title": "Junior",
+   "ratio_female": "0.48"
+ },
+ {
+   "FIELD1": 189,
+   "movieId": 257,
+   "title": "Just Cause",
+   "ratio_female": "0.675"
+ },
+ {
+   "FIELD1": 190,
+   "movieId": 259,
+   "title": "Kiss of Death",
+   "ratio_female": "0.2"
+ },
+ {
+   "FIELD1": 191,
+   "movieId": 260,
+   "title": "Star Wars",
+   "ratio_female": "0.06"
+ },
+ {
+   "FIELD1": 192,
+   "movieId": 261,
+   "title": "Little Women",
+   "ratio_female": "0.6"
+ },
+ {
+   "FIELD1": 193,
+   "movieId": 263,
+   "title": "Ladybird Ladybird",
+   "ratio_female": "0.25"
+ },
+ {
+   "FIELD1": 194,
+   "movieId": 265,
+   "title": "Like Water for Chocolate",
+   "ratio_female": "0.6"
+ },
+ {
+   "FIELD1": 195,
+   "movieId": 266,
+   "title": "Legends of the Fall",
+   "ratio_female": "0.25"
+ },
+ {
+   "FIELD1": 196,
+   "movieId": 267,
+   "title": "Major Payne",
+   "ratio_female": "0.09090909090909091"
+ },
+ {
+   "FIELD1": 197,
+   "movieId": 270,
+   "title": "Love Affair",
+   "ratio_female": "0.4117647058823529"
+ },
+ {
+   "FIELD1": 198,
+   "movieId": 271,
+   "title": "Losing Isaiah",
+   "ratio_female": "0.5555555555555556"
+ },
+ {
+   "FIELD1": 199,
+   "movieId": 273,
+   "title": "Mary Shelley's Frankenstein",
+   "ratio_female": "0.25"
+ },
+ {
+   "FIELD1": 200,
+   "movieId": 274,
+   "title": "Man of the House",
+   "ratio_female": "0.08333333333333333"
+ },
+ {
+   "FIELD1": 201,
+   "movieId": 275,
+   "title": "Mixed Nuts",
+   "ratio_female": "0.42857142857142855"
+ },
+ {
+   "FIELD1": 202,
+   "movieId": 276,
+   "title": "Milk Money",
+   "ratio_female": "0.2222222222222222"
+ },
+ {
+   "FIELD1": 203,
+   "movieId": 277,
+   "title": "Miracle on 34th Street",
+   "ratio_female": "0.4444444444444444"
+ },
+ {
+   "FIELD1": 204,
+   "movieId": 278,
+   "title": "Miami Rhapsody",
+   "ratio_female": "0.4"
+ },
+ {
+   "FIELD1": 205,
+   "movieId": 279,
+   "title": "My Family",
+   "ratio_female": "0.42857142857142855"
+ },
+ {
+   "FIELD1": 206,
+   "movieId": 280,
+   "title": "Murder in the First",
+   "ratio_female": "0.3333333333333333"
+ },
+ {
+   "FIELD1": 207,
+   "movieId": 281,
+   "title": "Nobody's Fool",
+   "ratio_female": "0.3333333333333333"
+ },
+ {
+   "FIELD1": 208,
+   "movieId": 282,
+   "title": "Nell",
+   "ratio_female": "0.2"
+ },
+ {
+   "FIELD1": 209,
+   "movieId": 283,
+   "title": "New Jersey Drive",
+   "ratio_female": "0.14285714285714285"
+ },
+ {
+   "FIELD1": 210,
+   "movieId": 284,
+   "title": "New York Cop",
+   "ratio_female": "0.1"
+ },
+ {
+   "FIELD1": 211,
+   "movieId": 285,
+   "title": "Beyond Bedlam",
+   "ratio_female": "0.3333333333333333"
+ },
+ {
+   "FIELD1": 212,
+   "movieId": 287,
+   "title": "Nina Takes a Lover",
+   "ratio_female": "0.4"
+ },
+ {
+   "FIELD1": 213,
+   "movieId": 288,
+   "title": "Killer",
+   "ratio_female": "0.3333333333333333"
+ },
+ {
+   "FIELD1": 214,
+   "movieId": 288,
+   "title": "Natural Born Killers",
+   "ratio_female": "0.23529411764705882"
+ },
+ {
+   "FIELD1": 215,
+   "movieId": 289,
+   "title": "Only You",
+   "ratio_female": "0.375"
+ },
+ {
+   "FIELD1": 216,
+   "movieId": 290,
+   "title": "Once Were Warriors",
+   "ratio_female": "0.2222222222222222"
+ },
+ {
+   "FIELD1": 217,
+   "movieId": 292,
+   "title": "Outbreak",
+   "ratio_female": "0.14285714285714285"
+ },
+ {
+   "FIELD1": 218,
+   "movieId": 296,
+   "title": "Pulp Fiction",
+   "ratio_female": "0.3902439024390244"
+ },
+ {
+   "FIELD1": 219,
+   "movieId": 299,
+   "title": "Priest",
+   "ratio_female": "0.375"
+ },
+ {
+   "FIELD1": 220,
+   "movieId": 300,
+   "title": "Quiz Show",
+   "ratio_female": "0.18518518518518517"
+ },
+ {
+   "FIELD1": 221,
+   "movieId": 301,
+   "title": "Picture Bride",
+   "ratio_female": "0.5"
+ },
+ {
+   "FIELD1": 222,
+   "movieId": 302,
+   "title": "Queen Margot",
+   "ratio_female": "0.3684210526315789"
+ },
+ {
+   "FIELD1": 223,
+   "movieId": 304,
+   "title": "Roommates",
+   "ratio_female": "0.3333333333333333"
+ },
+ {
+   "FIELD1": 224,
+   "movieId": 306,
+   "title": "Three Colors: Red",
+   "ratio_female": "0.42857142857142855"
+ },
+ {
+   "FIELD1": 225,
+   "movieId": 307,
+   "title": "Three Colors: Blue",
+   "ratio_female": "0.7142857142857143"
+ },
+ {
+   "FIELD1": 226,
+   "movieId": 308,
+   "title": "Three Colors: White",
+   "ratio_female": "0.25"
+ },
+ {
+   "FIELD1": 227,
+   "movieId": 310,
+   "title": "Rent-a-Kid",
+   "ratio_female": "0.0"
+ },
+ {
+   "FIELD1": 228,
+   "movieId": 311,
+   "title": "Fear",
+   "ratio_female": "0.3333333333333333"
+ },
+ {
+   "FIELD1": 229,
+   "movieId": 311,
+   "title": "Relative Fear",
+   "ratio_female": "0.3333333333333333"
+ },
+ {
+   "FIELD1": 230,
+   "movieId": 312,
+   "title": "Stuart Saves His Family",
+   "ratio_female": "0.4444444444444444"
+ },
+ {
+   "FIELD1": 231,
+   "movieId": 316,
+   "title": "Stargate",
+   "ratio_female": "0.16666666666666666"
+ },
+ {
+   "FIELD1": 232,
+   "movieId": 319,
+   "title": "Shallow Grave",
+   "ratio_female": "0.09090909090909091"
+ },
+ {
+   "FIELD1": 233,
+   "movieId": 320,
+   "title": "Suture",
+   "ratio_female": "0.42857142857142855"
+ },
+ {
+   "FIELD1": 234,
+   "movieId": 321,
+   "title": "Strawberry and Chocolate",
+   "ratio_female": "0.0"
+ },
+ {
+   "FIELD1": 235,
+   "movieId": 322,
+   "title": "Swimming with Sharks",
+   "ratio_female": "0.1111111111111111"
+ },
+ {
+   "FIELD1": 236,
+   "movieId": 325,
+   "title": "Senior Trip",
+   "ratio_female": "0.2857142857142857"
+ },
+ {
+   "FIELD1": 237,
+   "movieId": 326,
+   "title": "To Live",
+   "ratio_female": "0.2"
+ },
+ {
+   "FIELD1": 238,
+   "movieId": 327,
+   "title": "Tank Girl",
+   "ratio_female": "0.6428571428571429"
+ },
+ {
+   "FIELD1": 239,
+   "movieId": 329,
+   "title": "Star Trek: Generations",
+   "ratio_female": "0.25"
+ },
+ {
+   "FIELD1": 240,
+   "movieId": 330,
+   "title": "Tales from the Hood",
+   "ratio_female": "0.125"
+ },
+ {
+   "FIELD1": 241,
+   "movieId": 331,
+   "title": "Tom & Viv",
+   "ratio_female": "0.45454545454545453"
+ },
+ {
+   "FIELD1": 242,
+   "movieId": 332,
+   "title": "Village of the Damned",
+   "ratio_female": "0.5"
+ },
+ {
+   "FIELD1": 243,
+   "movieId": 333,
+   "title": "Tommy Boy",
+   "ratio_female": "0.2"
+ },
+ {
+   "FIELD1": 244,
+   "movieId": 334,
+   "title": "Vanya on 42nd Street",
+   "ratio_female": "0.4444444444444444"
+ },
+ {
+   "FIELD1": 245,
+   "movieId": 337,
+   "title": "What's Eating Gilbert Grape",
+   "ratio_female": "0.4666666666666667"
+ },
+ {
+   "FIELD1": 246,
+   "movieId": 338,
+   "title": "Virtuosity",
+   "ratio_female": "0.5454545454545454"
+ },
+ {
+   "FIELD1": 247,
+   "movieId": 339,
+   "title": "While You Were Sleeping",
+   "ratio_female": "0.6"
+ },
+ {
+   "FIELD1": 248,
+   "movieId": 341,
+   "title": "Double Happiness",
+   "ratio_female": "0.4"
+ },
+ {
+   "FIELD1": 249,
+   "movieId": 342,
+   "title": "Muriel's Wedding",
+   "ratio_female": "0.5833333333333334"
+ },
+ {
+   "FIELD1": 250,
+   "movieId": 344,
+   "title": "Ace Ventura: Pet Detective",
+   "ratio_female": "0.23076923076923078"
+ },
+ {
+   "FIELD1": 251,
+   "movieId": 346,
+   "title": "Backbeat",
+   "ratio_female": "0.16666666666666666"
+ },
+ {
+   "FIELD1": 252,
+   "movieId": 347,
+   "title": "Bitter Moon",
+   "ratio_female": "0.3333333333333333"
+ },
+ {
+   "FIELD1": 253,
+   "movieId": 348,
+   "title": "Bullets Over Broadway",
+   "ratio_female": "0.3"
+ },
+ {
+   "FIELD1": 254,
+   "movieId": 349,
+   "title": "Clear and Present Danger",
+   "ratio_female": "0.23529411764705882"
+ },
+ {
+   "FIELD1": 255,
+   "movieId": 351,
+   "title": "Corrina, Corrina",
+   "ratio_female": "0.42857142857142855"
+ },
+ {
+   "FIELD1": 256,
+   "movieId": 352,
+   "title": "Crooklyn",
+   "ratio_female": "0.15384615384615385"
+ },
+ {
+   "FIELD1": 257,
+   "movieId": 354,
+   "title": "Cobb",
+   "ratio_female": "0.25"
+ },
+ {
+   "FIELD1": 258,
+   "movieId": 356,
+   "title": "Forrest Gump",
+   "ratio_female": "0.16666666666666666"
+ },
+ {
+   "FIELD1": 259,
+   "movieId": 357,
+   "title": "Four Weddings and a Funeral",
+   "ratio_female": "0.375"
+ },
+ {
+   "FIELD1": 260,
+   "movieId": 358,
+   "title": "Higher Learning",
+   "ratio_female": "0.46153846153846156"
+ },
+ {
+   "FIELD1": 261,
+   "movieId": 359,
+   "title": "I Like It Like That",
+   "ratio_female": "0.6"
+ },
+ {
+   "FIELD1": 262,
+   "movieId": 360,
+   "title": "I Love Trouble",
+   "ratio_female": "0.4666666666666667"
+ },
+ {
+   "FIELD1": 263,
+   "movieId": 361,
+   "title": "It Could Happen to You",
+   "ratio_female": "0.2608695652173913"
+ },
+ {
+   "FIELD1": 264,
+   "movieId": 365,
+   "title": "Little Buddha",
+   "ratio_female": "0.4"
+ },
+ {
+   "FIELD1": 265,
+   "movieId": 366,
+   "title": "New Nightmare",
+   "ratio_female": "0.44"
+ },
+ {
+   "FIELD1": 266,
+   "movieId": 368,
+   "title": "Maverick",
+   "ratio_female": "0.19047619047619047"
+ },
+ {
+   "FIELD1": 267,
+   "movieId": 369,
+   "title": "Mrs. Parker and the Vicious Circle",
+   "ratio_female": "0.3548387096774194"
+ },
+ {
+   "FIELD1": 268,
+   "movieId": 370,
+   "title": "Naked",
+   "ratio_female": "0.5"
+ },
+ {
+   "FIELD1": 269,
+   "movieId": 372,
+   "title": "Reality Bites",
+   "ratio_female": "0.4666666666666667"
+ },
+ {
+   "FIELD1": 270,
+   "movieId": 373,
+   "title": "Red Rock West",
+   "ratio_female": "0.2"
+ },
+ {
+   "FIELD1": 271,
+   "movieId": 377,
+   "title": "Speed",
+   "ratio_female": "0.34375"
+ },
+ {
+   "FIELD1": 272,
+   "movieId": 378,
+   "title": "Speechless",
+   "ratio_female": "0.2222222222222222"
+ },
+ {
+   "FIELD1": 273,
+   "movieId": 379,
+   "title": "Timecop",
+   "ratio_female": "0.18181818181818182"
+ },
+ {
+   "FIELD1": 274,
+   "movieId": 380,
+   "title": "True Lies",
+   "ratio_female": "0.3"
+ },
+ {
+   "FIELD1": 275,
+   "movieId": 381,
+   "title": "When a Man Loves a Woman",
+   "ratio_female": "0.65625"
+ },
+ {
+   "FIELD1": 276,
+   "movieId": 382,
+   "title": "Wolf",
+   "ratio_female": "0.3333333333333333"
+ },
+ {
+   "FIELD1": 277,
+   "movieId": 383,
+   "title": "Wyatt Earp",
+   "ratio_female": "0.2608695652173913"
+ },
+ {
+   "FIELD1": 278,
+   "movieId": 384,
+   "title": "Bad Company",
+   "ratio_female": "0.2857142857142857"
+ },
+ {
+   "FIELD1": 279,
+   "movieId": 386,
+   "title": "S.F.W.",
+   "ratio_female": "0.3333333333333333"
+ },
+ {
+   "FIELD1": 280,
+   "movieId": 389,
+   "title": "Colonel Chabert",
+   "ratio_female": "0.375"
+ },
+ {
+   "FIELD1": 281,
+   "movieId": 391,
+   "title": "Jason's Lyric",
+   "ratio_female": "0.4444444444444444"
+ },
+ {
+   "FIELD1": 282,
+   "movieId": 393,
+   "title": "Street Fighter",
+   "ratio_female": "0.15384615384615385"
+ },
+ {
+   "FIELD1": 283,
+   "movieId": 405,
+   "title": "Highlander: The Final Dimension",
+   "ratio_female": "0.14285714285714285"
+ },
+ {
+   "FIELD1": 284,
+   "movieId": 406,
+   "title": "Federal Hill",
+   "ratio_female": "0.3333333333333333"
+ },
+ {
+   "FIELD1": 285,
+   "movieId": 407,
+   "title": "In the Mouth of Madness",
+   "ratio_female": "0.1"
+ },
+ {
+   "FIELD1": 286,
+   "movieId": 408,
+   "title": "8 Seconds",
+   "ratio_female": "0.3333333333333333"
+ },
+ {
+   "FIELD1": 287,
+   "movieId": 409,
+   "title": "Above the Rim",
+   "ratio_female": "0.0"
+ },
+ {
+   "FIELD1": 288,
+   "movieId": 410,
+   "title": "Addams Family Values",
+   "ratio_female": "0.36363636363636365"
+ },
+ {
+   "FIELD1": 289,
+   "movieId": 413,
+   "title": "Airheads",
+   "ratio_female": "0.14285714285714285"
+ },
+ {
+   "FIELD1": 290,
+   "movieId": 415,
+   "title": "Another Stakeout",
+   "ratio_female": "0.375"
+ },
+ {
+   "FIELD1": 291,
+   "movieId": 416,
+   "title": "Bad Girls",
+   "ratio_female": "0.4444444444444444"
+ },
+ {
+   "FIELD1": 292,
+   "movieId": 417,
+   "title": "Barcelona",
+   "ratio_female": "0.4"
+ },
+ {
+   "FIELD1": 293,
+   "movieId": 418,
+   "title": "Being Human",
+   "ratio_female": "0.08695652173913043"
+ },
+ {
+   "FIELD1": 294,
+   "movieId": 420,
+   "title": "Beverly Hills Cop III",
+   "ratio_female": "0.13636363636363635"
+ },
+ {
+   "FIELD1": 295,
+   "movieId": 421,
+   "title": "Black Beauty",
+   "ratio_female": "0.1111111111111111"
+ },
+ {
+   "FIELD1": 296,
+   "movieId": 422,
+   "title": "Blink",
+   "ratio_female": "0.42857142857142855"
+ },
+ {
+   "FIELD1": 297,
+   "movieId": 423,
+   "title": "Blown Away",
+   "ratio_female": "0.3333333333333333"
+ },
+ {
+   "FIELD1": 298,
+   "movieId": 424,
+   "title": "Blue Chips",
+   "ratio_female": "0.2222222222222222"
+ },
+ {
+   "FIELD1": 299,
+   "movieId": 425,
+   "title": "Blue Sky",
+   "ratio_female": "0.5"
+ },
+ {
+   "FIELD1": 300,
+   "movieId": 426,
+   "title": "Body Snatchers",
+   "ratio_female": "0.5"
+ },
+ {
+   "FIELD1": 301,
+   "movieId": 427,
+   "title": "Boxing Helena",
+   "ratio_female": "0.25"
+ },
+ {
+   "FIELD1": 302,
+   "movieId": 429,
+   "title": "Cabin Boy",
+   "ratio_female": "0.23076923076923078"
+ },
+ {
+   "FIELD1": 303,
+   "movieId": 430,
+   "title": "Calendar Girl",
+   "ratio_female": "0.0"
+ },
+ {
+   "FIELD1": 304,
+   "movieId": 431,
+   "title": "Carlito's Way",
+   "ratio_female": "0.17073170731707318"
+ },
+ {
+   "FIELD1": 305,
+   "movieId": 432,
+   "title": "City Slickers II: The Legend of Curly's Gold",
+   "ratio_female": "0.16666666666666666"
+ },
+ {
+   "FIELD1": 306,
+   "movieId": 433,
+   "title": "Clean Slate",
+   "ratio_female": "0.26666666666666666"
+ },
+ {
+   "FIELD1": 307,
+   "movieId": 434,
+   "title": "Cliffhanger",
+   "ratio_female": "0.21428571428571427"
+ },
+ {
+   "FIELD1": 308,
+   "movieId": 435,
+   "title": "Coneheads",
+   "ratio_female": "0.3103448275862069"
+ },
+ {
+   "FIELD1": 309,
+   "movieId": 436,
+   "title": "Color of Night",
+   "ratio_female": "0.2727272727272727"
+ },
+ {
+   "FIELD1": 310,
+   "movieId": 440,
+   "title": "Dave",
+   "ratio_female": "0.25"
+ },
+ {
+   "FIELD1": 311,
+   "movieId": 441,
+   "title": "Dazed and Confused",
+   "ratio_female": "0.5294117647058824"
+ },
+ {
+   "FIELD1": 312,
+   "movieId": 442,
+   "title": "Demolition Man",
+   "ratio_female": "0.1111111111111111"
+ },
+ {
+   "FIELD1": 313,
+   "movieId": 444,
+   "title": "Even Cowgirls Get the Blues",
+   "ratio_female": "0.4666666666666667"
+ },
+ {
+   "FIELD1": 314,
+   "movieId": 445,
+   "title": "Fatal Instinct",
+   "ratio_female": "0.3"
+ },
+ {
+   "FIELD1": 315,
+   "movieId": 446,
+   "title": "Farewell My Concubine",
+   "ratio_female": "0.25"
+ },
+ {
+   "FIELD1": 316,
+   "movieId": 448,
+   "title": "Fearless",
+   "ratio_female": "0.6363636363636364"
+ },
+ {
+   "FIELD1": 317,
+   "movieId": 449,
+   "title": "Fear of a Black Hat",
+   "ratio_female": "0.16666666666666666"
+ },
+ {
+   "FIELD1": 318,
+   "movieId": 450,
+   "title": "With Honors",
+   "ratio_female": "0.2857142857142857"
+ },
+ {
+   "FIELD1": 319,
+   "movieId": 451,
+   "title": "Flesh and Bone",
+   "ratio_female": "0.4444444444444444"
+ },
+ {
+   "FIELD1": 320,
+   "movieId": 452,
+   "title": "Widows' Peak",
+   "ratio_female": "0.5"
+ },
+ {
+   "FIELD1": 321,
+   "movieId": 453,
+   "title": "For Love or Money",
+   "ratio_female": "0.3333333333333333"
+ },
+ {
+   "FIELD1": 322,
+   "movieId": 456,
+   "title": "Fresh",
+   "ratio_female": "0.2777777777777778"
+ },
+ {
+   "FIELD1": 323,
+   "movieId": 458,
+   "title": "Geronimo: An American Legend",
+   "ratio_female": "0.0"
+ },
+ {
+   "FIELD1": 324,
+   "movieId": 460,
+   "title": "Getting Even with Dad",
+   "ratio_female": "0.16666666666666666"
+ },
+ {
+   "FIELD1": 325,
+   "movieId": 461,
+   "title": "Go Fish",
+   "ratio_female": "1.0"
+ },
+ {
+   "FIELD1": 326,
+   "movieId": 464,
+   "title": "Hard Target",
+   "ratio_female": "0.2727272727272727"
+ },
+ {
+   "FIELD1": 327,
+   "movieId": 466,
+   "title": "Hot Shots! Part Deux",
+   "ratio_female": "0.18181818181818182"
+ },
+ {
+   "FIELD1": 328,
+   "movieId": 467,
+   "title": "Live Nude Girls",
+   "ratio_female": "0.625"
+ },
+ {
+   "FIELD1": 329,
+   "movieId": 470,
+   "title": "House Party 3",
+   "ratio_female": "0.3333333333333333"
+ },
+ {
+   "FIELD1": 330,
+   "movieId": 472,
+   "title": "I'll Do Anything",
+   "ratio_female": "0.5555555555555556"
+ },
+ {
+   "FIELD1": 331,
+   "movieId": 473,
+   "title": "In the Army Now",
+   "ratio_female": "0.3333333333333333"
+ },
+ {
+   "FIELD1": 332,
+   "movieId": 474,
+   "title": "In the Line of Fire",
+   "ratio_female": "0.2"
+ },
+ {
+   "FIELD1": 333,
+   "movieId": 475,
+   "title": "In the Name of the Father",
+   "ratio_female": "0.12903225806451613"
+ },
+ {
+   "FIELD1": 334,
+   "movieId": 477,
+   "title": "What's Love Got to Do with It",
+   "ratio_female": "0.7272727272727273"
+ },
+ {
+   "FIELD1": 335,
+   "movieId": 478,
+   "title": "Jimmy Hollywood",
+   "ratio_female": "0.2"
+ },
+ {
+   "FIELD1": 336,
+   "movieId": 479,
+   "title": "Judgment Night",
+   "ratio_female": "0.25"
+ },
+ {
+   "FIELD1": 337,
+   "movieId": 480,
+   "title": "Jurassic Park",
+   "ratio_female": "0.09523809523809523"
+ },
+ {
+   "FIELD1": 338,
+   "movieId": 481,
+   "title": "Kalifornia",
+   "ratio_female": "0.4"
+ },
+ {
+   "FIELD1": 339,
+   "movieId": 482,
+   "title": "Killing Zoe",
+   "ratio_female": "0.2222222222222222"
+ },
+ {
+   "FIELD1": 340,
+   "movieId": 484,
+   "title": "Lassie",
+   "ratio_female": "0.3333333333333333"
+ },
+ {
+   "FIELD1": 341,
+   "movieId": 485,
+   "title": "Last Action Hero",
+   "ratio_female": "0.23809523809523808"
+ },
+ {
+   "FIELD1": 342,
+   "movieId": 487,
+   "title": "Jack",
+   "ratio_female": "0.5555555555555556"
+ },
+ {
+   "FIELD1": 343,
+   "movieId": 487,
+   "title": "Lightning Jack",
+   "ratio_female": "0.2"
+ },
+ {
+   "FIELD1": 344,
+   "movieId": 488,
+   "title": "M. Butterfly",
+   "ratio_female": "0.42857142857142855"
+ },
+ {
+   "FIELD1": 345,
+   "movieId": 489,
+   "title": "Made in America",
+   "ratio_female": "0.6"
+ },
+ {
+   "FIELD1": 346,
+   "movieId": 490,
+   "title": "Malice",
+   "ratio_female": "0.4166666666666667"
+ },
+ {
+   "FIELD1": 347,
+   "movieId": 492,
+   "title": "Manhattan Murder Mystery",
+   "ratio_female": "0.4375"
+ },
+ {
+   "FIELD1": 348,
+   "movieId": 493,
+   "title": "Menace II Society",
+   "ratio_female": "0.2222222222222222"
+ },
+ {
+   "FIELD1": 349,
+   "movieId": 494,
+   "title": "Executive Decision",
+   "ratio_female": "0.11764705882352941"
+ },
+ {
+   "FIELD1": 350,
+   "movieId": 495,
+   "title": "In the Realm of the Senses",
+   "ratio_female": "0.0"
+ },
+ {
+   "FIELD1": 351,
+   "movieId": 496,
+   "title": "What Happened Was...",
+   "ratio_female": "0.5"
+ },
+ {
+   "FIELD1": 352,
+   "movieId": 497,
+   "title": "Much Ado About Nothing",
+   "ratio_female": "0.3333333333333333"
+ },
+ {
+   "FIELD1": 353,
+   "movieId": 499,
+   "title": "Mr. Wonderful",
+   "ratio_female": "0.5"
+ },
+ {
+   "FIELD1": 354,
+   "movieId": 500,
+   "title": "Mrs. Doubtfire",
+   "ratio_female": "0.3125"
+ },
+ {
+   "FIELD1": 355,
+   "movieId": 504,
+   "title": "No Escape",
+   "ratio_female": "0.0"
+ },
+ {
+   "FIELD1": 356,
+   "movieId": 505,
+   "title": "North",
+   "ratio_female": "0.3333333333333333"
+ },
+ {
+   "FIELD1": 357,
+   "movieId": 506,
+   "title": "Orlando",
+   "ratio_female": "0.23809523809523808"
+ },
+ {
+   "FIELD1": 358,
+   "movieId": 508,
+   "title": "Philadelphia",
+   "ratio_female": "0.25"
+ },
+ {
+   "FIELD1": 359,
+   "movieId": 510,
+   "title": "Poetic Justice",
+   "ratio_female": "0.5"
+ },
+ {
+   "FIELD1": 360,
+   "movieId": 513,
+   "title": "Radioland Murders",
+   "ratio_female": "0.15789473684210525"
+ },
+ {
+   "FIELD1": 361,
+   "movieId": 516,
+   "title": "Renaissance Man",
+   "ratio_female": "0.09090909090909091"
+ },
+ {
+   "FIELD1": 362,
+   "movieId": 517,
+   "title": "Rising Sun",
+   "ratio_female": "0.23809523809523808"
+ },
+ {
+   "FIELD1": 363,
+   "movieId": 519,
+   "title": "RoboCop 3",
+   "ratio_female": "0.3"
+ },
+ {
+   "FIELD1": 364,
+   "movieId": 520,
+   "title": "Robin Hood: Men in Tights",
+   "ratio_female": "0.125"
+ },
+ {
+   "FIELD1": 365,
+   "movieId": 521,
+   "title": "Romeo Is Bleeding",
+   "ratio_female": "0.2"
+ },
+ {
+   "FIELD1": 366,
+   "movieId": 522,
+   "title": "Romper Stomper",
+   "ratio_female": "0.25"
+ },
+ {
+   "FIELD1": 367,
+   "movieId": 523,
+   "title": "Ruby in Paradise",
+   "ratio_female": "0.3333333333333333"
+ },
+ {
+   "FIELD1": 368,
+   "movieId": 524,
+   "title": "Rudy",
+   "ratio_female": "0.07142857142857142"
+ },
+ {
+   "FIELD1": 369,
+   "movieId": 526,
+   "title": "Savage Nights",
+   "ratio_female": "0.6666666666666666"
+ },
+ {
+   "FIELD1": 370,
+   "movieId": 527,
+   "title": "Schindler's List",
+   "ratio_female": "0.26666666666666666"
+ },
+ {
+   "FIELD1": 371,
+   "movieId": 529,
+   "title": "Searching for Bobby Fischer",
+   "ratio_female": "0.16666666666666666"
+ },
+ {
+   "FIELD1": 372,
+   "movieId": 532,
+   "title": "Serial Mom",
+   "ratio_female": "0.6190476190476191"
+ },
+ {
+   "FIELD1": 373,
+   "movieId": 534,
+   "title": "Shadowlands",
+   "ratio_female": "0.15384615384615385"
+ },
+ {
+   "FIELD1": 374,
+   "movieId": 535,
+   "title": "Short Cuts",
+   "ratio_female": "0.391304347826087"
+ },
+ {
+   "FIELD1": 375,
+   "movieId": 537,
+   "title": "Sirens",
+   "ratio_female": "0.42857142857142855"
+ },
+ {
+   "FIELD1": 376,
+   "movieId": 538,
+   "title": "Six Degrees of Separation",
+   "ratio_female": "0.3125"
+ },
+ {
+   "FIELD1": 377,
+   "movieId": 539,
+   "title": "Sleepless in Seattle",
+   "ratio_female": "0.5"
+ },
+ {
+   "FIELD1": 378,
+   "movieId": 540,
+   "title": "Sliver",
+   "ratio_female": "0.5333333333333333"
+ },
+ {
+   "FIELD1": 379,
+   "movieId": 541,
+   "title": "Blade Runner",
+   "ratio_female": "0.3333333333333333"
+ },
+ {
+   "FIELD1": 380,
+   "movieId": 542,
+   "title": "Son in Law",
+   "ratio_female": "0.25"
+ },
+ {
+   "FIELD1": 381,
+   "movieId": 543,
+   "title": "So I Married an Axe Murderer",
+   "ratio_female": "0.35714285714285715"
+ },
+ {
+   "FIELD1": 382,
+   "movieId": 544,
+   "title": "Striking Distance",
+   "ratio_female": "0.1"
+ },
+ {
+   "FIELD1": 383,
+   "movieId": 546,
+   "title": "Super Mario Bros.",
+   "ratio_female": "0.2222222222222222"
+ },
+ {
+   "FIELD1": 384,
+   "movieId": 547,
+   "title": "Surviving the Game",
+   "ratio_female": "0.0"
+ },
+ {
+   "FIELD1": 385,
+   "movieId": 548,
+   "title": "Terminal Velocity",
+   "ratio_female": "0.3333333333333333"
+ },
+ {
+   "FIELD1": 386,
+   "movieId": 550,
+   "title": "Threesome",
+   "ratio_female": "0.5"
+ },
+ {
+   "FIELD1": 387,
+   "movieId": 553,
+   "title": "Tombstone",
+   "ratio_female": "0.12121212121212122"
+ },
+ {
+   "FIELD1": 388,
+   "movieId": 555,
+   "title": "True Romance",
+   "ratio_female": "0.18181818181818182"
+ },
+ {
+   "FIELD1": 389,
+   "movieId": 562,
+   "title": "Welcome to the Dollhouse",
+   "ratio_female": "0.4"
+ },
+ {
+   "FIELD1": 390,
+   "movieId": 563,
+   "title": "Germinal",
+   "ratio_female": "0.3"
+ },
+ {
+   "FIELD1": 391,
+   "movieId": 564,
+   "title": "Chasers",
+   "ratio_female": "0.21428571428571427"
+ },
+ {
+   "FIELD1": 392,
+   "movieId": 567,
+   "title": "Kika",
+   "ratio_female": "0.4444444444444444"
+ },
+ {
+   "FIELD1": 393,
+   "movieId": 568,
+   "title": "Bhaji on the Beach",
+   "ratio_female": "0.5"
+ },
+ {
+   "FIELD1": 394,
+   "movieId": 569,
+   "title": "Little Big League",
+   "ratio_female": "0.0"
+ },
+ {
+   "FIELD1": 395,
+   "movieId": 573,
+   "title": "Ciao, Professore!",
+   "ratio_female": "0.0"
+ },
+ {
+   "FIELD1": 396,
+   "movieId": 574,
+   "title": "Spanking the Monkey",
+   "ratio_female": "0.42857142857142855"
+ },
+ {
+   "FIELD1": 397,
+   "movieId": 577,
+   "title": "Andre",
+   "ratio_female": "0.5"
+ },
+ {
+   "FIELD1": 398,
+   "movieId": 580,
+   "title": "Princess Caraboo",
+   "ratio_female": "0.42857142857142855"
+ },
+ {
+   "FIELD1": 399,
+   "movieId": 583,
+   "title": "Dear Diary",
+   "ratio_female": "0.3333333333333333"
+ },
+ {
+   "FIELD1": 400,
+   "movieId": 586,
+   "title": "Home Alone",
+   "ratio_female": "0.3"
+ },
+ {
+   "FIELD1": 401,
+   "movieId": 587,
+   "title": "Ghost",
+   "ratio_female": "0.5384615384615384"
+ },
+ {
+   "FIELD1": 402,
+   "movieId": 588,
+   "title": "Aladdin",
+   "ratio_female": "0.2"
+ },
+ {
+   "FIELD1": 403,
+   "movieId": 589,
+   "title": "Terminator 2: Judgment Day",
+   "ratio_female": "0.16129032258064516"
+ },
+ {
+   "FIELD1": 404,
+   "movieId": 590,
+   "title": "Dances with Wolves",
+   "ratio_female": "0.10526315789473684"
+ },
+ {
+   "FIELD1": 405,
+   "movieId": 594,
+   "title": "Snow White and the Seven Dwarfs",
+   "ratio_female": "0.3"
+ },
+ {
+   "FIELD1": 406,
+   "movieId": 595,
+   "title": "Beauty and the Beast",
+   "ratio_female": "0.35294117647058826"
+ },
+ {
+   "FIELD1": 407,
+   "movieId": 596,
+   "title": "Pinocchio",
+   "ratio_female": "0.2"
+ },
+ {
+   "FIELD1": 408,
+   "movieId": 597,
+   "title": "Pretty Woman",
+   "ratio_female": "0.38461538461538464"
+ },
+ {
+   "FIELD1": 409,
+   "movieId": 600,
+   "title": "Love and a .45",
+   "ratio_female": "0.4"
+ },
+ {
+   "FIELD1": 410,
+   "movieId": 605,
+   "title": "One Fine Day",
+   "ratio_female": "0.4166666666666667"
+ },
+ {
+   "FIELD1": 411,
+   "movieId": 606,
+   "title": "Candyman: Farewell to the Flesh",
+   "ratio_female": "0.4"
+ },
+ {
+   "FIELD1": 412,
+   "movieId": 608,
+   "title": "Fargo",
+   "ratio_female": "0.21428571428571427"
+ },
+ {
+   "FIELD1": 413,
+   "movieId": 609,
+   "title": "Bound",
+   "ratio_female": "0.36363636363636365"
+ },
+ {
+   "FIELD1": 414,
+   "movieId": 609,
+   "title": "Homeward Bound II: Lost in San Francisco",
+   "ratio_female": "0.2777777777777778"
+ },
+ {
+   "FIELD1": 415,
+   "movieId": 610,
+   "title": "Heavy Metal",
+   "ratio_female": "0.2777777777777778"
+ },
+ {
+   "FIELD1": 416,
+   "movieId": 611,
+   "title": "Hellraiser: Bloodline",
+   "ratio_female": "0.3076923076923077"
+ },
+ {
+   "FIELD1": 417,
+   "movieId": 613,
+   "title": "Jane Eyre",
+   "ratio_female": "0.7"
+ },
+ {
+   "FIELD1": 418,
+   "movieId": 615,
+   "title": "Bread and Chocolate",
+   "ratio_female": "0.3333333333333333"
+ },
+ {
+   "FIELD1": 419,
+   "movieId": 618,
+   "title": "Two Much",
+   "ratio_female": "0.2727272727272727"
+ },
+ {
+   "FIELD1": 420,
+   "movieId": 628,
+   "title": "Primal Fear",
+   "ratio_female": "0.2857142857142857"
+ },
+ {
+   "FIELD1": 421,
+   "movieId": 631,
+   "title": "All Dogs Go to Heaven 2",
+   "ratio_female": "0.13333333333333333"
+ },
+ {
+   "FIELD1": 422,
+   "movieId": 632,
+   "title": "Land and Freedom",
+   "ratio_female": "0.3333333333333333"
+ },
+ {
+   "FIELD1": 423,
+   "movieId": 633,
+   "title": "Denise Calls Up",
+   "ratio_female": "0.6666666666666666"
+ },
+ {
+   "FIELD1": 424,
+   "movieId": 634,
+   "title": "Theodore Rex",
+   "ratio_female": "0.3"
+ },
+ {
+   "FIELD1": 425,
+   "movieId": 636,
+   "title": "Frisk",
+   "ratio_female": "0.6666666666666666"
+ },
+ {
+   "FIELD1": 426,
+   "movieId": 637,
+   "title": "Sgt. Bilko",
+   "ratio_female": "0.15384615384615385"
+ },
+ {
+   "FIELD1": 427,
+   "movieId": 639,
+   "title": "Girl 6",
+   "ratio_female": "0.47368421052631576"
+ },
+ {
+   "FIELD1": 428,
+   "movieId": 640,
+   "title": "Diabolique",
+   "ratio_female": "0.42857142857142855"
+ },
+ {
+   "FIELD1": 429,
+   "movieId": 647,
+   "title": "Courage Under Fire",
+   "ratio_female": "0.23529411764705882"
+ },
+ {
+   "FIELD1": 430,
+   "movieId": 648,
+   "title": "Mission: Impossible",
+   "ratio_female": "0.17647058823529413"
+ },
+ {
+   "FIELD1": 431,
+   "movieId": 649,
+   "title": "Cold Fever",
+   "ratio_female": "0.4"
+ },
+ {
+   "FIELD1": 432,
+   "movieId": 650,
+   "title": "Moll Flanders",
+   "ratio_female": "0.5714285714285714"
+ },
+ {
+   "FIELD1": 433,
+   "movieId": 656,
+   "title": "Eddie",
+   "ratio_female": "0.15789473684210525"
+ },
+ {
+   "FIELD1": 434,
+   "movieId": 661,
+   "title": "Giant",
+   "ratio_female": "0.5"
+ },
+ {
+   "FIELD1": 435,
+   "movieId": 661,
+   "title": "James and the Giant Peach",
+   "ratio_female": "0.45454545454545453"
+ },
+ {
+   "FIELD1": 436,
+   "movieId": 663,
+   "title": "Kids in the Hall: Brain Candy",
+   "ratio_female": "0.45454545454545453"
+ },
+ {
+   "FIELD1": 437,
+   "movieId": 665,
+   "title": "Underground",
+   "ratio_female": "0.16666666666666666"
+ },
+ {
+   "FIELD1": 438,
+   "movieId": 667,
+   "title": "Bloodsport II",
+   "ratio_female": "0.0"
+ },
+ {
+   "FIELD1": 439,
+   "movieId": 668,
+   "title": "Pather Panchali",
+   "ratio_female": "1.0"
+ },
+ {
+   "FIELD1": 440,
+   "movieId": 671,
+   "title": "Mystery Science Theater 3000: The Movie",
+   "ratio_female": "0.0"
+ },
+ {
+   "FIELD1": 441,
+   "movieId": 673,
+   "title": "Space Jam",
+   "ratio_female": "0.09090909090909091"
+ },
+ {
+   "FIELD1": 442,
+   "movieId": 674,
+   "title": "Barbarella",
+   "ratio_female": "0.4838709677419355"
+ },
+ {
+   "FIELD1": 443,
+   "movieId": 678,
+   "title": "Some Folks Call It a Sling Blade",
+   "ratio_female": "0.0"
+ },
+ {
+   "FIELD1": 444,
+   "movieId": 680,
+   "title": "Alphaville",
+   "ratio_female": "0.42857142857142855"
+ },
+ {
+   "FIELD1": 445,
+   "movieId": 685,
+   "title": "It's My Party",
+   "ratio_female": "0.4444444444444444"
+ },
+ {
+   "FIELD1": 446,
+   "movieId": 688,
+   "title": "Dumbo",
+   "ratio_female": "0.16666666666666666"
+ },
+ {
+   "FIELD1": 447,
+   "movieId": 688,
+   "title": "Operation Dumbo Drop",
+   "ratio_female": "0.0"
+ },
+ {
+   "FIELD1": 448,
+   "movieId": 691,
+   "title": "Mrs. Winterbourne",
+   "ratio_female": "0.6"
+ },
+ {
+   "FIELD1": 449,
+   "movieId": 692,
+   "title": "Solo",
+   "ratio_female": "0.07142857142857142"
+ },
+ {
+   "FIELD1": 450,
+   "movieId": 695,
+   "title": "True Crime",
+   "ratio_female": "0.5"
+ },
+ {
+   "FIELD1": 451,
+   "movieId": 697,
+   "title": "Feeling Minnesota",
+   "ratio_female": "0.3333333333333333"
+ },
+ {
+   "FIELD1": 452,
+   "movieId": 698,
+   "title": "Delta of Venus",
+   "ratio_female": "0.0"
+ },
+ {
+   "FIELD1": 453,
+   "movieId": 700,
+   "title": "Angus",
+   "ratio_female": "0.38461538461538464"
+ },
+ {
+   "FIELD1": 454,
+   "movieId": 706,
+   "title": "Sunset Park",
+   "ratio_female": "0.2857142857142857"
+ },
+ {
+   "FIELD1": 455,
+   "movieId": 707,
+   "title": "Mulholland Falls",
+   "ratio_female": "0.2857142857142857"
+ },
+ {
+   "FIELD1": 456,
+   "movieId": 709,
+   "title": "Oliver & Company",
+   "ratio_female": "0.2"
+ },
+ {
+   "FIELD1": 457,
+   "movieId": 710,
+   "title": "Celtic Pride",
+   "ratio_female": "0.14285714285714285"
+ },
+ {
+   "FIELD1": 458,
+   "movieId": 711,
+   "title": "Flipper",
+   "ratio_female": "0.16666666666666666"
+ },
+ {
+   "FIELD1": 459,
+   "movieId": 719,
+   "title": "Multiplicity",
+   "ratio_female": "0.34782608695652173"
+ },
+ {
+   "FIELD1": 460,
+   "movieId": 726,
+   "title": "Last Dance",
+   "ratio_female": "0.3333333333333333"
+ },
+ {
+   "FIELD1": 461,
+   "movieId": 728,
+   "title": "Cold Comfort Farm",
+   "ratio_female": "0.42105263157894735"
+ },
+ {
+   "FIELD1": 462,
+   "movieId": 731,
+   "title": "Heaven's Prisoners",
+   "ratio_female": "0.23076923076923078"
+ },
+ {
+   "FIELD1": 463,
+   "movieId": 735,
+   "title": "Cemetery Man",
+   "ratio_female": "0.2"
+ },
+ {
+   "FIELD1": 464,
+   "movieId": 736,
+   "title": "Twister",
+   "ratio_female": "0.26666666666666666"
+ },
+ {
+   "FIELD1": 465,
+   "movieId": 737,
+   "title": "Barb Wire",
+   "ratio_female": "0.4"
+ },
+ {
+   "FIELD1": 466,
+   "movieId": 741,
+   "title": "Ghost in the Shell",
+   "ratio_female": "0.2857142857142857"
+ },
+ {
+   "FIELD1": 467,
+   "movieId": 742,
+   "title": "Thinner",
+   "ratio_female": "0.3"
+ },
+ {
+   "FIELD1": 468,
+   "movieId": 743,
+   "title": "Spy Hard",
+   "ratio_female": "0.21212121212121213"
+ },
+ {
+   "FIELD1": 469,
+   "movieId": 745,
+   "title": "A Close Shave",
+   "ratio_female": "0.5"
+ },
+ {
+   "FIELD1": 470,
+   "movieId": 750,
+   "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+   "ratio_female": "0.09090909090909091"
+ },
+ {
+   "FIELD1": 471,
+   "movieId": 757,
+   "title": "Ashes of Time",
+   "ratio_female": "0.4444444444444444"
+ },
+ {
+   "FIELD1": 472,
+   "movieId": 760,
+   "title": "Stalingrad",
+   "ratio_female": "0.16666666666666666"
+ },
+ {
+   "FIELD1": 473,
+   "movieId": 762,
+   "title": "Striptease",
+   "ratio_female": "0.4375"
+ },
+ {
+   "FIELD1": 474,
+   "movieId": 766,
+   "title": "I Shot Andy Warhol",
+   "ratio_female": "0.42105263157894735"
+ },
+ {
+   "FIELD1": 475,
+   "movieId": 773,
+   "title": "Touki Bouki",
+   "ratio_female": "0.0"
+ },
+ {
+   "FIELD1": 476,
+   "movieId": 775,
+   "title": "Spirits of the Dead",
+   "ratio_female": "0.4375"
+ },
+ {
+   "FIELD1": 477,
+   "movieId": 778,
+   "title": "Trainspotting",
+   "ratio_female": "0.3333333333333333"
+ },
+ {
+   "FIELD1": 478,
+   "movieId": 779,
+   "title": "Til There Was You",
+   "ratio_female": "0.41379310344827586"
+ },
+ {
+   "FIELD1": 479,
+   "movieId": 780,
+   "title": "Independence Day",
+   "ratio_female": "0.15384615384615385"
+ },
+ {
+   "FIELD1": 480,
+   "movieId": 781,
+   "title": "Stealing Beauty",
+   "ratio_female": "0.2857142857142857"
+ },
+ {
+   "FIELD1": 481,
+   "movieId": 785,
+   "title": "Kingpin",
+   "ratio_female": "0.36"
+ },
+ {
+   "FIELD1": 482,
+   "movieId": 786,
+   "title": "Eraser",
+   "ratio_female": "0.16666666666666666"
+ },
+ {
+   "FIELD1": 483,
+   "movieId": 795,
+   "title": "Somebody to Love",
+   "ratio_female": "0.125"
+ },
+ {
+   "FIELD1": 484,
+   "movieId": 798,
+   "title": "Daylight",
+   "ratio_female": "0.3125"
+ },
+ {
+   "FIELD1": 485,
+   "movieId": 800,
+   "title": "Lone Star",
+   "ratio_female": "0.3333333333333333"
+ },
+ {
+   "FIELD1": 486,
+   "movieId": 801,
+   "title": "Harriet the Spy",
+   "ratio_female": "0.6666666666666666"
+ },
+ {
+   "FIELD1": 487,
+   "movieId": 802,
+   "title": "Phenomenon",
+   "ratio_female": "0.23076923076923078"
+ },
+ {
+   "FIELD1": 488,
+   "movieId": 803,
+   "title": "Walking and Talking",
+   "ratio_female": "0.5"
+ },
+ {
+   "FIELD1": 489,
+   "movieId": 804,
+   "title": "She's the One",
+   "ratio_female": "0.625"
+ },
+ {
+   "FIELD1": 490,
+   "movieId": 806,
+   "title": "American Buffalo",
+   "ratio_female": "0.0"
+ },
+ {
+   "FIELD1": 491,
+   "movieId": 808,
+   "title": "Alaska",
+   "ratio_female": "0.25"
+ },
+ {
+   "FIELD1": 492,
+   "movieId": 809,
+   "title": "Fled",
+   "ratio_female": "0.14285714285714285"
+ },
+ {
+   "FIELD1": 493,
+   "movieId": 810,
+   "title": "Kazaam",
+   "ratio_female": "0.25"
+ },
+ {
+   "FIELD1": 494,
+   "movieId": 813,
+   "title": "Larger Than Life",
+   "ratio_female": "0.2222222222222222"
+ },
+ {
+   "FIELD1": 495,
+   "movieId": 824,
+   "title": "Kaspar Hauser",
+   "ratio_female": "0.14285714285714285"
+ },
+ {
+   "FIELD1": 496,
+   "movieId": 829,
+   "title": "Joe's Apartment",
+   "ratio_female": "0.2857142857142857"
+ },
+ {
+   "FIELD1": 497,
+   "movieId": 832,
+   "title": "Ransom",
+   "ratio_female": "0.2"
+ },
+ {
+   "FIELD1": 498,
+   "movieId": 833,
+   "title": "High School High",
+   "ratio_female": "0.36363636363636365"
+ },
+ {
+   "FIELD1": 499,
+   "movieId": 835,
+   "title": "Foxfire",
+   "ratio_female": "0.5384615384615384"
+ },
+ {
+   "FIELD1": 500,
+   "movieId": 836,
+   "title": "Chain Reaction",
+   "ratio_female": "0.1935483870967742"
+ },
+ {
+   "FIELD1": 501,
+   "movieId": 837,
+   "title": "Matilda",
+   "ratio_female": "0.5555555555555556"
+ },
+ {
+   "FIELD1": 502,
+   "movieId": 838,
+   "title": "Emma",
+   "ratio_female": "0.5625"
+ },
+ {
+   "FIELD1": 503,
+   "movieId": 840,
+   "title": "House Arrest",
+   "ratio_female": "0.5"
+ },
+ {
+   "FIELD1": 504,
+   "movieId": 841,
+   "title": "Eyes Without a Face",
+   "ratio_female": "0.2"
+ },
+ {
+   "FIELD1": 505,
+   "movieId": 842,
+   "title": "Bordello of Blood",
+   "ratio_female": "0.4"
+ },
+ {
+   "FIELD1": 506,
+   "movieId": 849,
+   "title": "Escape from L.A.",
+   "ratio_female": "0.25"
+ },
+ {
+   "FIELD1": 507,
+   "movieId": 851,
+   "title": "Basquiat",
+   "ratio_female": "0.3157894736842105"
+ },
+ {
+   "FIELD1": 508,
+   "movieId": 852,
+   "title": "Tin Cup",
+   "ratio_female": "0.2"
+ },
+ {
+   "FIELD1": 509,
+   "movieId": 861,
+   "title": "Police Story 3: Supercop",
+   "ratio_female": "0.2857142857142857"
+ },
+ {
+   "FIELD1": 510,
+   "movieId": 867,
+   "title": "Carpool",
+   "ratio_female": "0.3"
+ },
+ {
+   "FIELD1": 511,
+   "movieId": 869,
+   "title": "Kansas City",
+   "ratio_female": "0.5"
+ },
+ {
+   "FIELD1": 512,
+   "movieId": 870,
+   "title": "Gone Fishin'",
+   "ratio_female": "0.5"
+ },
+ {
+   "FIELD1": 513,
+   "movieId": 875,
+   "title": "Nothing to Lose",
+   "ratio_female": "0.3333333333333333"
+ },
+ {
+   "FIELD1": 514,
+   "movieId": 876,
+   "title": "Project S",
+   "ratio_female": "0.3333333333333333"
+ },
+ {
+   "FIELD1": 515,
+   "movieId": 881,
+   "title": "First Kid",
+   "ratio_female": "0.2222222222222222"
+ },
+ {
+   "FIELD1": 516,
+   "movieId": 885,
+   "title": "Bogus",
+   "ratio_female": "0.75"
+ },
+ {
+   "FIELD1": 517,
+   "movieId": 886,
+   "title": "Bulletproof",
+   "ratio_female": "0.18181818181818182"
+ },
+ {
+   "FIELD1": 518,
+   "movieId": 889,
+   "title": "1-900",
+   "ratio_female": "0.5"
+ },
+ {
+   "FIELD1": 519,
+   "movieId": 891,
+   "title": "Halloween: The Curse of Michael Myers",
+   "ratio_female": "0.3"
+ },
+ {
+   "FIELD1": 520,
+   "movieId": 892,
+   "title": "Twelfth Night",
+   "ratio_female": "0.375"
+ },
+ {
+   "FIELD1": 521,
+   "movieId": 893,
+   "title": "Mother Night",
+   "ratio_female": "0.25"
+ },
+ {
+   "FIELD1": 522,
+   "movieId": 896,
+   "title": "Wild Reeds",
+   "ratio_female": "0.4"
+ },
+ {
+   "FIELD1": 523,
+   "movieId": 897,
+   "title": "For Whom the Bell Tolls",
+   "ratio_female": "0.11764705882352941"
+ },
+ {
+   "FIELD1": 524,
+   "movieId": 899,
+   "title": "Singin' in the Rain",
+   "ratio_female": "0.5625"
+ },
+ {
+   "FIELD1": 525,
+   "movieId": 901,
+   "title": "Funny Face",
+   "ratio_female": "0.5555555555555556"
+ },
+ {
+   "FIELD1": 526,
+   "movieId": 902,
+   "title": "Breakfast at Tiffany's",
+   "ratio_female": "0.3333333333333333"
+ },
+ {
+   "FIELD1": 527,
+   "movieId": 903,
+   "title": "Vertigo",
+   "ratio_female": "0.5"
+ },
+ {
+   "FIELD1": 528,
+   "movieId": 904,
+   "title": "Rear Window",
+   "ratio_female": "0.5625"
+ },
+ {
+   "FIELD1": 529,
+   "movieId": 905,
+   "title": "It Happened One Night",
+   "ratio_female": "0.15384615384615385"
+ },
+ {
+   "FIELD1": 530,
+   "movieId": 906,
+   "title": "Gaslight",
+   "ratio_female": "0.4090909090909091"
+ },
+ {
+   "FIELD1": 531,
+   "movieId": 908,
+   "title": "North by Northwest",
+   "ratio_female": "0.18518518518518517"
+ },
+ {
+   "FIELD1": 532,
+   "movieId": 910,
+   "title": "Some Like It Hot",
+   "ratio_female": "0.28"
+ },
+ {
+   "FIELD1": 533,
+   "movieId": 911,
+   "title": "Charade",
+   "ratio_female": "0.0"
+ },
+ {
+   "FIELD1": 534,
+   "movieId": 912,
+   "title": "Casablanca",
+   "ratio_female": "0.12903225806451613"
+ },
+ {
+   "FIELD1": 535,
+   "movieId": 914,
+   "title": "My Fair Lady",
+   "ratio_female": "0.4"
+ },
+ {
+   "FIELD1": 536,
+   "movieId": 916,
+   "title": "Roman Holiday",
+   "ratio_female": "0.23076923076923078"
+ },
+ {
+   "FIELD1": 537,
+   "movieId": 918,
+   "title": "Meet Me in St. Louis",
+   "ratio_female": "0.5833333333333334"
+ },
+ {
+   "FIELD1": 538,
+   "movieId": 920,
+   "title": "Gone with the Wind",
+   "ratio_female": "0.2833333333333333"
+ },
+ {
+   "FIELD1": 539,
+   "movieId": 921,
+   "title": "My Favorite Year",
+   "ratio_female": "0.3611111111111111"
+ },
+ {
+   "FIELD1": 540,
+   "movieId": 922,
+   "title": "Sunset Boulevard",
+   "ratio_female": "0.3333333333333333"
+ },
+ {
+   "FIELD1": 541,
+   "movieId": 923,
+   "title": "Citizen Kane",
+   "ratio_female": "0.20754716981132076"
+ },
+ {
+   "FIELD1": 542,
+   "movieId": 924,
+   "title": "2001: A Space Odyssey",
+   "ratio_female": "0.29411764705882354"
+ },
+ {
+   "FIELD1": 543,
+   "movieId": 926,
+   "title": "All About Eve",
+   "ratio_female": "0.5789473684210527"
+ },
+ {
+   "FIELD1": 544,
+   "movieId": 928,
+   "title": "Rebecca",
+   "ratio_female": "0.2222222222222222"
+ },
+ {
+   "FIELD1": 545,
+   "movieId": 929,
+   "title": "Foreign Correspondent",
+   "ratio_female": "0.1702127659574468"
+ },
+ {
+   "FIELD1": 546,
+   "movieId": 930,
+   "title": "Notorious",
+   "ratio_female": "0.23529411764705882"
+ },
+ {
+   "FIELD1": 547,
+   "movieId": 931,
+   "title": "Spellbound",
+   "ratio_female": "0.15384615384615385"
+ },
+ {
+   "FIELD1": 548,
+   "movieId": 933,
+   "title": "To Catch a Thief",
+   "ratio_female": "0.36363636363636365"
+ },
+ {
+   "FIELD1": 549,
+   "movieId": 936,
+   "title": "Ninotchka",
+   "ratio_female": "0.3225806451612903"
+ },
+ {
+   "FIELD1": 550,
+   "movieId": 937,
+   "title": "Love in the Afternoon",
+   "ratio_female": "0.25"
+ },
+ {
+   "FIELD1": 551,
+   "movieId": 938,
+   "title": "Gigi",
+   "ratio_female": "0.42857142857142855"
+ },
+ {
+   "FIELD1": 552,
+   "movieId": 942,
+   "title": "Laura",
+   "ratio_female": "0.35714285714285715"
+ },
+ {
+   "FIELD1": 553,
+   "movieId": 944,
+   "title": "Lost Horizon",
+   "ratio_female": "0.375"
+ },
+ {
+   "FIELD1": 554,
+   "movieId": 945,
+   "title": "Top Hat",
+   "ratio_female": "0.5"
+ },
+ {
+   "FIELD1": 555,
+   "movieId": 946,
+   "title": "To Be or Not to Be",
+   "ratio_female": "0.25"
+ },
+ {
+   "FIELD1": 556,
+   "movieId": 947,
+   "title": "My Man Godfrey",
+   "ratio_female": "0.4"
+ },
+ {
+   "FIELD1": 557,
+   "movieId": 949,
+   "title": "East of Eden",
+   "ratio_female": "0.17142857142857143"
+ },
+ {
+   "FIELD1": 558,
+   "movieId": 951,
+   "title": "His Girl Friday",
+   "ratio_female": "0.1724137931034483"
+ },
+ {
+   "FIELD1": 559,
+   "movieId": 953,
+   "title": "It's a Wonderful Life",
+   "ratio_female": "0.2459016393442623"
+ },
+ {
+   "FIELD1": 560,
+   "movieId": 954,
+   "title": "Mr. Smith Goes to Washington",
+   "ratio_female": "0.1346153846153846"
+ },
+ {
+   "FIELD1": 561,
+   "movieId": 955,
+   "title": "Bringing Up Baby",
+   "ratio_female": "0.14285714285714285"
+ },
+ {
+   "FIELD1": 562,
+   "movieId": 956,
+   "title": "Penny Serenade",
+   "ratio_female": "0.4444444444444444"
+ },
+ {
+   "FIELD1": 563,
+   "movieId": 959,
+   "title": "Of Human Bondage",
+   "ratio_female": "0.42857142857142855"
+ },
+ {
+   "FIELD1": 564,
+   "movieId": 961,
+   "title": "Little Lord Fauntleroy",
+   "ratio_female": "0.47368421052631576"
+ },
+ {
+   "FIELD1": 565,
+   "movieId": 968,
+   "title": "Night of the Living Dead",
+   "ratio_female": "0.3333333333333333"
+ },
+ {
+   "FIELD1": 566,
+   "movieId": 970,
+   "title": "Beat the Devil",
+   "ratio_female": "0.13333333333333333"
+ },
+ {
+   "FIELD1": 567,
+   "movieId": 971,
+   "title": "Cat on a Hot Tin Roof",
+   "ratio_female": "0.3"
+ },
+ {
+   "FIELD1": 568,
+   "movieId": 973,
+   "title": "Meet John Doe",
+   "ratio_female": "0.11764705882352941"
+ },
+ {
+   "FIELD1": 569,
+   "movieId": 979,
+   "title": "Nothing Personal",
+   "ratio_female": "0.16666666666666666"
+ },
+ {
+   "FIELD1": 570,
+   "movieId": 981,
+   "title": "Dangerous Ground",
+   "ratio_female": "0.14285714285714285"
+ },
+ {
+   "FIELD1": 571,
+   "movieId": 982,
+   "title": "Picnic",
+   "ratio_female": "0.6363636363636364"
+ },
+ {
+   "FIELD1": 572,
+   "movieId": 986,
+   "title": "Fly Away Home",
+   "ratio_female": "0.2857142857142857"
+ },
+ {
+   "FIELD1": 573,
+   "movieId": 987,
+   "title": "Bliss",
+   "ratio_female": "0.5"
+ },
+ {
+   "FIELD1": 574,
+   "movieId": 988,
+   "title": "Grace of My Heart",
+   "ratio_female": "0.5714285714285714"
+ },
+ {
+   "FIELD1": 575,
+   "movieId": 990,
+   "title": "Maximum Risk",
+   "ratio_female": "0.09523809523809523"
+ },
+ {
+   "FIELD1": 576,
+   "movieId": 991,
+   "title": "Michael Collins",
+   "ratio_female": "0.0625"
+ },
+ {
+   "FIELD1": 577,
+   "movieId": 993,
+   "title": "Infinity",
+   "ratio_female": "0.3333333333333333"
+ },
+ {
+   "FIELD1": 578,
+   "movieId": 994,
+   "title": "Big Night",
+   "ratio_female": "0.4444444444444444"
+ },
+ {
+   "FIELD1": 579,
+   "movieId": 996,
+   "title": "Last Man Standing",
+   "ratio_female": "0.2631578947368421"
+ },
+ {
+   "FIELD1": 580,
+   "movieId": 998,
+   "title": "Set It Off",
+   "ratio_female": "0.4166666666666667"
+ },
+ {
+   "FIELD1": 581,
+   "movieId": 999,
+   "title": "2 Days in the Valley",
+   "ratio_female": "0.375"
+ },
+ {
+   "FIELD1": 582,
+   "movieId": 1003,
+   "title": "Extreme Measures",
+   "ratio_female": "0.2777777777777778"
+ },
+ {
+   "FIELD1": 583,
+   "movieId": 1005,
+   "title": "D3: The Mighty Ducks",
+   "ratio_female": "0.1875"
+ },
+ {
+   "FIELD1": 584,
+   "movieId": 1008,
+   "title": "Davy Crockett, King of the Wild Frontier",
+   "ratio_female": "0.0"
+ },
+ {
+   "FIELD1": 585,
+   "movieId": 1009,
+   "title": "Escape to Witch Mountain",
+   "ratio_female": "0.25"
+ },
+ {
+   "FIELD1": 586,
+   "movieId": 1011,
+   "title": "Herbie Rides Again",
+   "ratio_female": "0.2"
+ },
+ {
+   "FIELD1": 587,
+   "movieId": 1012,
+   "title": "Old Yeller",
+   "ratio_female": "0.2857142857142857"
+ },
+ {
+   "FIELD1": 588,
+   "movieId": 1014,
+   "title": "Pollyanna",
+   "ratio_female": "0.5333333333333333"
+ },
+ {
+   "FIELD1": 589,
+   "movieId": 1015,
+   "title": "Homeward Bound: The Incredible Journey",
+   "ratio_female": "0.5555555555555556"
+ },
+ {
+   "FIELD1": 590,
+   "movieId": 1017,
+   "title": "Swiss Family Robinson",
+   "ratio_female": "0.2"
+ },
+ {
+   "FIELD1": 591,
+   "movieId": 1018,
+   "title": "That Darn Cat!",
+   "ratio_female": "0.23809523809523808"
+ },
+ {
+   "FIELD1": 592,
+   "movieId": 1019,
+   "title": "20,000 Leagues Under the Sea",
+   "ratio_female": "0.0"
+ },
+ {
+   "FIELD1": 593,
+   "movieId": 1020,
+   "title": "Cool Runnings",
+   "ratio_female": "0.0"
+ },
+ {
+   "FIELD1": 594,
+   "movieId": 1021,
+   "title": "Angels in the Outfield",
+   "ratio_female": "0.07142857142857142"
+ },
+ {
+   "FIELD1": 595,
+   "movieId": 1022,
+   "title": "Cinderella",
+   "ratio_female": "0.625"
+ },
+ {
+   "FIELD1": 596,
+   "movieId": 1023,
+   "title": "Winnie the Pooh and the Blustery Day",
+   "ratio_female": "0.0"
+ },
+ {
+   "FIELD1": 597,
+   "movieId": 1027,
+   "title": "Robin Hood: Prince of Thieves",
+   "ratio_female": "0.125"
+ },
+ {
+   "FIELD1": 598,
+   "movieId": 1028,
+   "title": "Mary Poppins",
+   "ratio_female": "0.6111111111111112"
+ },
+ {
+   "FIELD1": 599,
+   "movieId": 1030,
+   "title": "Pete's Dragon",
+   "ratio_female": "0.2857142857142857"
+ },
+ {
+   "FIELD1": 600,
+   "movieId": 1031,
+   "title": "Bedknobs and Broomsticks",
+   "ratio_female": "0.1111111111111111"
+ },
+ {
+   "FIELD1": 601,
+   "movieId": 1032,
+   "title": "Alice in Wonderland",
+   "ratio_female": "0.3333333333333333"
+ },
+ {
+   "FIELD1": 602,
+   "movieId": 1034,
+   "title": "Freeway",
+   "ratio_female": "0.5384615384615384"
+ },
+ {
+   "FIELD1": 603,
+   "movieId": 1041,
+   "title": "Secrets & Lies",
+   "ratio_female": "0.5666666666666667"
+ },
+ {
+   "FIELD1": 604,
+   "movieId": 1042,
+   "title": "That Thing You Do!",
+   "ratio_female": "0.20833333333333334"
+ },
+ {
+   "FIELD1": 605,
+   "movieId": 1043,
+   "title": "To Gillian on Her 37th Birthday",
+   "ratio_female": "0.6"
+ },
+ {
+   "FIELD1": 606,
+   "movieId": 1046,
+   "title": "Beautiful Thing",
+   "ratio_female": "0.5714285714285714"
+ },
+ {
+   "FIELD1": 607,
+   "movieId": 1050,
+   "title": "Looking for Richard",
+   "ratio_female": "0.26666666666666666"
+ },
+ {
+   "FIELD1": 608,
+   "movieId": 1051,
+   "title": "Trees Lounge",
+   "ratio_female": "0.46153846153846156"
+ },
+ {
+   "FIELD1": 609,
+   "movieId": 1053,
+   "title": "Normal Life",
+   "ratio_female": "0.375"
+ },
+ {
+   "FIELD1": 610,
+   "movieId": 1054,
+   "title": "Get on the Bus",
+   "ratio_female": "0.17647058823529413"
+ },
+ {
+   "FIELD1": 611,
+   "movieId": 1055,
+   "title": "Shadow Conspiracy",
+   "ratio_female": "0.07142857142857142"
+ },
+ {
+   "FIELD1": 612,
+   "movieId": 1056,
+   "title": "Jude",
+   "ratio_female": "0.3333333333333333"
+ },
+ {
+   "FIELD1": 613,
+   "movieId": 1057,
+   "title": "Everyone Says I Love You",
+   "ratio_female": "0.47413793103448276"
+ },
+ {
+   "FIELD1": 614,
+   "movieId": 1060,
+   "title": "Swingers",
+   "ratio_female": "0.47368421052631576"
+ },
+ {
+   "FIELD1": 615,
+   "movieId": 1061,
+   "title": "Sleeper",
+   "ratio_female": "0.3333333333333333"
+ },
+ {
+   "FIELD1": 616,
+   "movieId": 1061,
+   "title": "Sleepers",
+   "ratio_female": "0.058823529411764705"
+ },
+ {
+   "FIELD1": 617,
+   "movieId": 1064,
+   "title": "Aladdin and the King of Thieves",
+   "ratio_female": "0.2"
+ },
+ {
+   "FIELD1": 618,
+   "movieId": 1066,
+   "title": "Shall We Dance",
+   "ratio_female": "0.11538461538461539"
+ },
+ {
+   "FIELD1": 619,
+   "movieId": 1068,
+   "title": "Crossfire",
+   "ratio_female": "0.16666666666666666"
+ },
+ {
+   "FIELD1": 620,
+   "movieId": 1073,
+   "title": "Willy Wonka & the Chocolate Factory",
+   "ratio_female": "0.23076923076923078"
+ },
+ {
+   "FIELD1": 621,
+   "movieId": 1078,
+   "title": "Bananas",
+   "ratio_female": "0.18181818181818182"
+ },
+ {
+   "FIELD1": 622,
+   "movieId": 1080,
+   "title": "Life of Brian",
+   "ratio_female": "0.18181818181818182"
+ },
+ {
+   "FIELD1": 623,
+   "movieId": 1081,
+   "title": "Victor/Victoria",
+   "ratio_female": "0.3"
+ },
+ {
+   "FIELD1": 624,
+   "movieId": 1084,
+   "title": "Bonnie and Clyde",
+   "ratio_female": "0.25"
+ },
+ {
+   "FIELD1": 625,
+   "movieId": 1086,
+   "title": "Dial M for Murder",
+   "ratio_female": "0.14285714285714285"
+ },
+ {
+   "FIELD1": 626,
+   "movieId": 1088,
+   "title": "Dirty Dancing",
+   "ratio_female": "0.4166666666666667"
+ },
+ {
+   "FIELD1": 627,
+   "movieId": 1089,
+   "title": "Reservoir Dogs",
+   "ratio_female": "0.0"
+ },
+ {
+   "FIELD1": 628,
+   "movieId": 1090,
+   "title": "Platoon",
+   "ratio_female": "0.0"
+ },
+ {
+   "FIELD1": 629,
+   "movieId": 1091,
+   "title": "Weekend at Bernie's",
+   "ratio_female": "0.42857142857142855"
+ },
+ {
+   "FIELD1": 630,
+   "movieId": 1092,
+   "title": "Basic Instinct",
+   "ratio_female": "0.3548387096774194"
+ },
+ {
+   "FIELD1": 631,
+   "movieId": 1095,
+   "title": "Glengarry Glen Ross",
+   "ratio_female": "0.14285714285714285"
+ },
+ {
+   "FIELD1": 632,
+   "movieId": 1096,
+   "title": "Sophie's Choice",
+   "ratio_female": "0.3"
+ },
+ {
+   "FIELD1": 633,
+   "movieId": 1097,
+   "title": "E.T. the Extra-Terrestrial",
+   "ratio_female": "0.5"
+ },
+ {
+   "FIELD1": 634,
+   "movieId": 1100,
+   "title": "Days of Thunder",
+   "ratio_female": "0.2727272727272727"
+ },
+ {
+   "FIELD1": 635,
+   "movieId": 1101,
+   "title": "Top Gun",
+   "ratio_female": "0.15384615384615385"
+ },
+ {
+   "FIELD1": 636,
+   "movieId": 1103,
+   "title": "Rebel Without a Cause",
+   "ratio_female": "0.25806451612903225"
+ },
+ {
+   "FIELD1": 637,
+   "movieId": 1105,
+   "title": "Children of the Corn IV: The Gathering",
+   "ratio_female": "0.5"
+ },
+ {
+   "FIELD1": 638,
+   "movieId": 1111,
+   "title": "Microcosmos",
+   "ratio_female": "0.5"
+ },
+ {
+   "FIELD1": 639,
+   "movieId": 1112,
+   "title": "Palookaville",
+   "ratio_female": "0.4166666666666667"
+ },
+ {
+   "FIELD1": 640,
+   "movieId": 1119,
+   "title": "Drunks",
+   "ratio_female": "0.46153846153846156"
+ },
+ {
+   "FIELD1": 641,
+   "movieId": 1121,
+   "title": "Glory Daze",
+   "ratio_female": "0.3157894736842105"
+ },
+ {
+   "FIELD1": 642,
+   "movieId": 1124,
+   "title": "On Golden Pond",
+   "ratio_female": "0.4"
+ },
+ {
+   "FIELD1": 643,
+   "movieId": 1125,
+   "title": "Panther",
+   "ratio_female": "0.23076923076923078"
+ },
+ {
+   "FIELD1": 644,
+   "movieId": 1126,
+   "title": "Drop Dead Fred",
+   "ratio_female": "0.42857142857142855"
+ },
+ {
+   "FIELD1": 645,
+   "movieId": 1129,
+   "title": "Escape from New York",
+   "ratio_female": "0.15384615384615385"
+ },
+ {
+   "FIELD1": 646,
+   "movieId": 1131,
+   "title": "Jean de Florette",
+   "ratio_female": "0.2857142857142857"
+ },
+ {
+   "FIELD1": 647,
+   "movieId": 1132,
+   "title": "Manon of the Spring",
+   "ratio_female": "0.2"
+ },
+ {
+   "FIELD1": 648,
+   "movieId": 1135,
+   "title": "Private Benjamin",
+   "ratio_female": "0.42857142857142855"
+ },
+ {
+   "FIELD1": 649,
+   "movieId": 1136,
+   "title": "Monty Python and the Holy Grail",
+   "ratio_female": "0.4"
+ },
+ {
+   "FIELD1": 650,
+   "movieId": 1137,
+   "title": "Hustler White",
+   "ratio_female": "0.0"
+ },
+ {
+   "FIELD1": 651,
+   "movieId": 1147,
+   "title": "When We Were Kings",
+   "ratio_female": "0.11764705882352941"
+ },
+ {
+   "FIELD1": 652,
+   "movieId": 1148,
+   "title": "The Wrong Trousers",
+   "ratio_female": "0.0"
+ },
+ {
+   "FIELD1": 653,
+   "movieId": 1151,
+   "title": "Faust",
+   "ratio_female": "0.0"
+ },
+ {
+   "FIELD1": 654,
+   "movieId": 1163,
+   "title": "Mina Tannenbaum",
+   "ratio_female": "1.0"
+ },
+ {
+   "FIELD1": 655,
+   "movieId": 1167,
+   "title": "Dear God",
+   "ratio_female": "0.43478260869565216"
+ },
+ {
+   "FIELD1": 656,
+   "movieId": 1170,
+   "title": "Best of the Best 3: No Turning Back",
+   "ratio_female": "0.2857142857142857"
+ },
+ {
+   "FIELD1": 657,
+   "movieId": 1171,
+   "title": "Bob Roberts",
+   "ratio_female": "0.17391304347826086"
+ },
+ {
+   "FIELD1": 658,
+   "movieId": 1172,
+   "title": "Cinema Paradiso",
+   "ratio_female": "0.3"
+ },
+ {
+   "FIELD1": 659,
+   "movieId": 1175,
+   "title": "Delicatessen",
+   "ratio_female": "0.2"
+ },
+ {
+   "FIELD1": 660,
+   "movieId": 1177,
+   "title": "Enchanted April",
+   "ratio_female": "0.5714285714285714"
+ },
+ {
+   "FIELD1": 661,
+   "movieId": 1178,
+   "title": "Paths of Glory",
+   "ratio_female": "0.07142857142857142"
+ },
+ {
+   "FIELD1": 662,
+   "movieId": 1180,
+   "title": "Hear My Song",
+   "ratio_female": "0.3076923076923077"
+ },
+ {
+   "FIELD1": 663,
+   "movieId": 1184,
+   "title": "Mediterraneo",
+   "ratio_female": "0.125"
+ },
+ {
+   "FIELD1": 664,
+   "movieId": 1186,
+   "title": "Sex, Lies, and Videotape",
+   "ratio_female": "0.3333333333333333"
+ },
+ {
+   "FIELD1": 665,
+   "movieId": 1187,
+   "title": "Passion Fish",
+   "ratio_female": "0.6"
+ },
+ {
+   "FIELD1": 666,
+   "movieId": 1188,
+   "title": "Strictly Ballroom",
+   "ratio_female": "0.3333333333333333"
+ },
+ {
+   "FIELD1": 667,
+   "movieId": 1190,
+   "title": "Tie Me Up! Tie Me Down!",
+   "ratio_female": "0.5833333333333334"
+ },
+ {
+   "FIELD1": 668,
+   "movieId": 1191,
+   "title": "Madonna: Truth or Dare",
+   "ratio_female": "0.2"
+ },
+ {
+   "FIELD1": 669,
+   "movieId": 1193,
+   "title": "One Flew Over the Cuckoo's Nest",
+   "ratio_female": "0.2916666666666667"
+ },
+ {
+   "FIELD1": 670,
+   "movieId": 1194,
+   "title": "Up in Smoke",
+   "ratio_female": "0.2222222222222222"
+ },
+ {
+   "FIELD1": 671,
+   "movieId": 1196,
+   "title": "The Empire Strikes Back",
+   "ratio_female": "0.07894736842105263"
+ },
+ {
+   "FIELD1": 672,
+   "movieId": 1198,
+   "title": "Raiders of the Lost Ark",
+   "ratio_female": "0.04"
+ },
+ {
+   "FIELD1": 673,
+   "movieId": 1199,
+   "title": "Brazil",
+   "ratio_female": "0.17647058823529413"
+ },
+ {
+   "FIELD1": 674,
+   "movieId": 1200,
+   "title": "Alien",
+   "ratio_female": "0.375"
+ },
+ {
+   "FIELD1": 675,
+   "movieId": 1200,
+   "title": "Aliens",
+   "ratio_female": "0.3181818181818182"
+ },
+ {
+   "FIELD1": 676,
+   "movieId": 1202,
+   "title": "Withnail & I",
+   "ratio_female": "0.0"
+ },
+ {
+   "FIELD1": 677,
+   "movieId": 1203,
+   "title": "12 Angry Men",
+   "ratio_female": "0.0"
+ },
+ {
+   "FIELD1": 678,
+   "movieId": 1204,
+   "title": "Lawrence of Arabia",
+   "ratio_female": "0.0"
+ },
+ {
+   "FIELD1": 679,
+   "movieId": 1207,
+   "title": "To Kill a Mockingbird",
+   "ratio_female": "0.2857142857142857"
+ },
+ {
+   "FIELD1": 680,
+   "movieId": 1208,
+   "title": "Apocalypse Now",
+   "ratio_female": "0.12903225806451613"
+ },
+ {
+   "FIELD1": 681,
+   "movieId": 1209,
+   "title": "Once Upon a Time in the West",
+   "ratio_female": "0.07692307692307693"
+ },
+ {
+   "FIELD1": 682,
+   "movieId": 1210,
+   "title": "Return of the Jedi",
+   "ratio_female": "0.11428571428571428"
+ },
+ {
+   "FIELD1": 683,
+   "movieId": 1211,
+   "title": "Wings of Desire",
+   "ratio_female": "0.0"
+ },
+ {
+   "FIELD1": 684,
+   "movieId": 1215,
+   "title": "Army of Darkness",
+   "ratio_female": "0.3333333333333333"
+ },
+ {
+   "FIELD1": 685,
+   "movieId": 1219,
+   "title": "Psycho",
+   "ratio_female": "0.3"
+ },
+ {
+   "FIELD1": 686,
+   "movieId": 1222,
+   "title": "Full Metal Jacket",
+   "ratio_female": "0.045454545454545456"
+ },
+ {
+   "FIELD1": 687,
+   "movieId": 1224,
+   "title": "Henry V",
+   "ratio_female": "0.125"
+ },
+ {
+   "FIELD1": 688,
+   "movieId": 1349,
+   "title": "Venice",
+   "ratio_female": "1.0"
+ },
+ {
+   "FIELD1": 689,
+   "movieId": 1353,
+   "title": "Faces",
+   "ratio_female": "0.5454545454545454"
+ },
+ {
+   "FIELD1": 690,
+   "movieId": 2628,
+   "title": "The Phantom",
+   "ratio_female": "0.21428571428571427"
+ },
+ {
+   "FIELD1": 691,
+   "movieId": 2643,
+   "title": "The Quest",
+   "ratio_female": "0.125"
+ },
+ {
+   "FIELD1": 692,
+   "movieId": 2786,
+   "title": "Honeymoon",
+   "ratio_female": "0.5"
+ },
+ {
+   "FIELD1": 693,
+   "movieId": 3074,
+   "title": "Johns",
+   "ratio_female": "0.0"
+ },
+ {
+   "FIELD1": 694,
+   "movieId": 3179,
+   "title": "Angela",
+   "ratio_female": "0.6666666666666666"
+ },
+ {
+   "FIELD1": 695,
+   "movieId": 3208,
+   "title": "Loaded",
+   "ratio_female": "0.5"
+ },
+ {
+   "FIELD1": 696,
+   "movieId": 7310,
+   "title": "Raw Deal",
+   "ratio_female": "0.25"
+ },
+ {
+   "FIELD1": 697,
+   "movieId": 8894,
+   "title": "The Killer",
+   "ratio_female": "0.0"
+ },
+ {
+   "FIELD1": 698,
+   "movieId": 26131,
+   "title": "Algiers",
+   "ratio_female": "0.25"
+ },
+ {
+   "FIELD1": 699,
+   "movieId": 27370,
+   "title": "Shopping",
+   "ratio_female": "0.26666666666666666"
+ },
+ {
+   "FIELD1": 700,
+   "movieId": 27744,
+   "title": "Windows",
+   "ratio_female": "0.8"
+ },
+ {
+   "FIELD1": 701,
+   "movieId": 32160,
+   "title": "Century",
+   "ratio_female": "0.38461538461538464"
+ },
+ {
+   "FIELD1": 702,
+   "movieId": 35807,
+   "title": "August",
+   "ratio_female": "0.2"
+ },
+ {
+   "FIELD1": 703,
+   "movieId": 45106,
+   "title": "American Dream",
+   "ratio_female": "0.0"
+ },
+ {
+   "FIELD1": 704,
+   "movieId": 48414,
+   "title": "Open Season",
+   "ratio_female": "0.4"
+ },
+ {
+   "FIELD1": 705,
+   "movieId": 60303,
+   "title": "Kim",
+   "ratio_female": "0.125"
+ },
+ {
+   "FIELD1": 706,
+   "movieId": 126921,
+   "title": "The Fox and the Hound",
+   "ratio_female": "0.2727272727272727"
+ },
+ {
+   "FIELD1": 707,
+   "movieId": 129428,
+   "title": "Second Best",
+   "ratio_female": "0.2"
+ },
+ {
+   "FIELD1": 708,
+   "movieId": 136786,
+   "title": "Careful",
+   "ratio_female": "0.2857142857142857"
+ },
+ {
+   "FIELD1": 709,
+   "movieId": 137857,
+   "title": "The Jungle Book",
+   "ratio_female": "0.2"
+ },
+ {
+   "FIELD1": 710,
+   "movieId": 140301,
+   "title": "The Escort",
+   "ratio_female": "0.14285714285714285"
+ },
+ {
+   "FIELD1": 711,
+   "movieId": 147376,
+   "title": "A Christmas Carol",
+   "ratio_female": "0.3"
+ },
+ {
+   "FIELD1": 712,
+   "movieId": 150554,
+   "title": "The Love Bug",
+   "ratio_female": "0.25"
+ },
+ {
+   "FIELD1": 713,
+   "movieId": 151557,
+   "title": "Stonewall",
+   "ratio_female": "0.0"
+ },
+ {
+   "FIELD1": 714,
+   "movieId": 165343,
+   "title": "The Rock",
+   "ratio_female": "0.045454545454545456"
+ },
+ {
+   "FIELD1": 715,
+   "movieId": 172591,
+   "title": "The Godfather",
+   "ratio_female": "0.16666666666666666"
+ }
+]

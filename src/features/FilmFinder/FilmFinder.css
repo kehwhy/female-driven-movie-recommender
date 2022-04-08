@@ -1,0 +1,45 @@
+.FilmFinder {
+    justify-content: center;
+}
+
+.FilmFinder_search_wrapper {
+    padding: 10px;
+    display: inline;
+}
+
+.FilmFinder_search {
+    width: 40%;
+    padding: 20px;
+    border-radius: 25px;
+    display: inline;
+}
+
+.FilmFinder_search_button {
+    display: inline;
+}
+
+.FilmFinder_search_button_wrapper {
+    display: inline;
+    padding: 5px;
+}
+
+.FilmFinder_load_button_wrapper {
+    padding: 10px;
+    padding-bottom: 25px;
+}
+
+.FilmFinder_load_button  {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid var(--black);
+    background-color: var(--black);
+}
+  
+.FilmFinder_load_button:hover  {
+    box-shadow: 0 0 8px 1px var(--blue);
+    border: 1px solid var(--blue);
+}
+
+.FilmFinder_load_button_text {
+    color: white;
+}
