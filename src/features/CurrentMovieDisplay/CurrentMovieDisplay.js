@@ -2,7 +2,7 @@ import { Heading, Paragraph, Badge } from 'evergreen-ui'
 import React from 'react'
 import { useDispatch, useSelector } from "react-redux"
 import { selectCurrentMovie, selectRatingInfo, selectExtraInfo, setRecommendations, selectRecommendations } from '../CurrentMovieDisplay/CurrentMovieSlice'
-import { getRecommendations, isFilmFemaleDirected, getFemaleScoreBadge, getFemaleScore } from '../helper'
+import { getRecommendations, isFilmFemaleDirected, getFemaleScoreBadge, getFemaleScore, getFemaleCount } from '../helper'
 import { selectAllRecommendations, selectFemaleCastScores, selectFemaleCount, selectFemaleCrewScores, selectFemaleDirected } from '../recommendationsSlice'
 import { selectFemaleCastAndCrewScores } from '../recommendationsSlice'
 import './CurrentMovieDisplay.css'
@@ -67,7 +67,7 @@ const CurrentMovieDisplay = () => {
                     <Heading size={700}>{getFemaleScore(currentMovie.Title, femaleCrewScores)}</Heading>
                     <br></br>
                     <Heading size={600}>Number of Women Involved in the Film:</Heading>
-                    <Heading size={700}>{getFemaleScore(currentMovie.Title, femaleCount).slice(0,-1)}</Heading>
+                    <Heading size={700}>{getFemaleCount(currentMovie.Title, femaleCount)}</Heading>
                 </div>
                 <div className="imdb-rec">
                     <Heading size={700}>Recommended</Heading>

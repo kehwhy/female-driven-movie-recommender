@@ -5,7 +5,7 @@
 }
 
 .SearchResultTable_table {
-    color: var(--navy);
+    color: #000000;
     padding: 15px;
     justify-content: left;
 }
@@ -16,13 +16,13 @@
 
 .search_result_table_header {
     border: none;
-    background-color: var(--black);
+    background-color: #000000;
     padding-right: 0;
     
 }
 
 .search_result_table_header span{
-    color: white;
+    color: #000000;
 }
 
 .search_result_table_row div{
@@ -43,13 +43,13 @@
     background-color: transparent;
     display: inline-flex;
     align-items: center;
-    color: var(--navy);
-    border: 1px solid var(--white);
+    color: #000000;
+    border: 1px solid #ffffff;
     transition: 0.2s background-color;
   }
   
 .add_button:hover {
-    background-color: var(--black);
-    border: 1px solid var(--black);
-    color: var(--black);
+    background-color: #000000;
+    border: 1px solid #000000;
+    color: #ffffff;
 }

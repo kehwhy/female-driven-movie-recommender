@@ -32,7 +32,7 @@ export const getFemaleScoreBadge = (title, arr) => {
         return <Badge color={"yellow"}>{">"} 30% Female Involvement</Badge>
     }
     if (score >= 20) {
-        return <Badge color={"yellow"}>{">"} 50% Female Involvement</Badge>
+        return <Badge color={"yellow"}>{">"} 20% Female Involvement</Badge>
     }
     return <Badge color={"red"}>{"<"} 20% Female Involvement</Badge>
     
@@ -48,5 +48,18 @@ export const getFemaleScore = (title, arr) => {
     const score = Math.round(film[0].ratio_female *100*100)/100
 
     return `${score}%`
+    
+}
+
+export const getFemaleCount = (title, arr) => {
+    
+    const film = arr.filter(f => f.title === title)
+    if (film.length === 0){
+        return "Data Unavailable"
+    }
+
+    const score = film[0].ratio_female
+
+    return `${score}`
     
 }
